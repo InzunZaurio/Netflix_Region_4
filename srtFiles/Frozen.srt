@@ -1,0 +1,6327 @@
+1
+00:01:21,264 --> 00:01:26,270
+FROZEN:
+UNA AVENTURA CONGELADA
+
+2
+00:01:53,463 --> 00:01:56,633
+# Nacido del frío y del aire invernal #
+
+3
+00:01:56,800 --> 00:01:59,761
+# Y de la montaña y la lluvia #
+
+4
+00:02:01,138 --> 00:02:04,099
+# Esta fuerza helada,
+horrible y hermosa #
+
+5
+00:02:04,266 --> 00:02:08,437
+# Tiene un helado corazón para minar #
+
+6
+00:02:08,604 --> 00:02:10,480
+# Corten el corazón #
+
+7
+00:02:10,647 --> 00:02:11,857
+# Tan frío y limpio #
+
+8
+00:02:12,024 --> 00:02:14,860
+# Golpeen por amor y golpeen por miedo #
+
+9
+00:02:15,027 --> 00:02:17,863
+# Vean la pura belleza #
+
+10
+00:02:18,030 --> 00:02:20,991
+# Partan el hielo #
+
+11
+00:02:21,158 --> 00:02:23,952
+# Y rompan el helado corazón #
+
+12
+00:02:25,162 --> 00:02:27,539
+# Cuidado
+Suéltenlo #
+
+13
+00:02:30,208 --> 00:02:32,836
+# Cuidado
+Suéltenlo #
+
+14
+00:02:33,003 --> 00:02:34,129
+- # - Hermoso
+- Poderoso #
+
+15
+00:02:34,296 --> 00:02:35,339
+- # - Peligroso
+- Frío #
+
+16
+00:02:35,505 --> 00:02:37,841
+# El hielo tiene magia
+No se puede controlar #
+
+17
+00:02:38,008 --> 00:02:39,008
+# Más fuerte que uno #
+
+18
+00:02:39,134 --> 00:02:40,344
+# Más fuerte que diez #
+
+19
+00:02:40,510 --> 00:02:41,553
+# ¡Más fuerte que cien hombres! #
+
+20
+00:02:45,474 --> 00:02:46,516
+# Nacido del frío #
+
+21
+00:02:46,683 --> 00:02:47,726
+# Del aire invernal #
+
+22
+00:02:47,893 --> 00:02:50,687
+# Y de la montaña y la lluvia #
+
+23
+00:02:50,854 --> 00:02:52,522
+# Esta fuerza helada
+horrible y hermosa #
+
+24
+00:02:52,689 --> 00:02:55,317
+# Tiene un helado corazón para minar #
+
+25
+00:02:55,421 --> 00:02:56,422
+# Corten el frío #
+
+26
+00:02:56,526 --> 00:02:57,694
+# Y limpio corazón #
+
+27
+00:02:57,861 --> 00:03:00,197
+# Golpeen por amor y golpeen por miedo #
+
+28
+00:03:00,364 --> 00:03:02,741
+# Hay belleza y peligro aquí #
+
+29
+00:03:02,866 --> 00:03:04,868
+# Partan el hielo #
+
+30
+00:03:05,035 --> 00:03:10,540
+# Cuidado con el helado corazón #
+
+31
+00:03:14,753 --> 00:03:16,004
+Vamos, Sven.
+
+32
+00:03:41,947 --> 00:03:43,532
+Elsa.
+
+33
+00:03:45,742 --> 00:03:46,952
+¡Elsa!
+
+34
+00:03:47,577 --> 00:03:49,579
+Despierta. Despierta. ¡Despierta!
+
+35
+00:03:49,746 --> 00:03:52,708
+Anna, vuelve a dormir.
+
+36
+00:03:53,542 --> 00:03:54,918
+Es que no puedo.
+
+37
+00:03:55,085 --> 00:03:59,965
+El cielo despertó, y yo también.
+Así que tenemos que jugar.
+
+38
+00:04:00,132 --> 00:04:02,134
+Ve a jugar sola.
+
+39
+00:04:08,974 --> 00:04:11,268
+¿Y si hacemos un muñeco?
+
+40
+00:04:12,853 --> 00:04:15,314
+¡Vamos, vamos, vamos!
+
+41
+00:04:18,817 --> 00:04:19,818
+¡Haz magia!
+
+42
+00:04:19,985 --> 00:04:21,570
+¡Haz magia!
+
+43
+00:04:26,950 --> 00:04:27,951
+¿Estás lista?
+
+44
+00:04:32,122 --> 00:04:34,291
+¡Es increíble!
+
+45
+00:04:36,793 --> 00:04:37,794
+¡Mira esto!
+
+46
+00:04:46,595 --> 00:04:47,971
+Hola, soy Olaf...
+
+47
+00:04:48,138 --> 00:04:49,598
+...y adoro los abrazos.
+
+48
+00:04:49,765 --> 00:04:50,974
+¡Te amo, Olaf!
+
+49
+00:04:58,315 --> 00:04:59,549
+¡Me hace cosquillas!
+
+50
+00:05:03,320 --> 00:05:04,554
+¡Espera!
+
+51
+00:05:04,717 --> 00:05:05,718
+¡Atrápame!
+
+52
+00:05:05,822 --> 00:05:06,957
+¡Te tengo!
+
+53
+00:05:07,157 --> 00:05:08,157
+¡Otra vez!
+
+54
+00:05:08,325 --> 00:05:09,559
+¡Espera!
+
+55
+00:05:10,869 --> 00:05:12,162
+¡Más despacio!
+
+56
+00:05:14,790 --> 00:05:16,074
+¡Anna!
+
+57
+00:05:21,338 --> 00:05:22,798
+¡Anna!
+
+58
+00:05:25,050 --> 00:05:27,844
+¡Mamá! ¡Papá!
+
+59
+00:05:35,477 --> 00:05:38,522
+Estás bien, Anna. Te tengo.
+
+60
+00:05:39,564 --> 00:05:42,859
+Elsa, ¿qué has hecho?
+Esto está fuera de control.
+
+61
+00:05:43,235 --> 00:05:46,530
+Fue un accidente. ¡Lo siento, Anna!
+
+62
+00:05:47,197 --> 00:05:49,533
+- Está helada.
+- Sé adónde debemos ir.
+
+63
+00:06:10,304 --> 00:06:11,722
+¿Hielo?
+
+64
+00:06:12,055 --> 00:06:13,890
+Más rápido, Sven.
+
+65
+00:06:15,976 --> 00:06:17,185
+¡Sven!
+
+66
+00:06:20,397 --> 00:06:24,401
+¡Ayúdenme, por favor! Es mi hija.
+
+67
+00:06:35,329 --> 00:06:36,329
+Es el rey.
+
+68
+00:06:39,750 --> 00:06:40,751
+¿Trolls?
+
+69
+00:06:41,460 --> 00:06:43,420
+Quiero escuchar.
+
+70
+00:06:44,254 --> 00:06:47,257
+Qué lindos. Me quedaré con ustedes.
+
+71
+00:06:47,883 --> 00:06:51,720
+Su Majestad.
+¿Nació con poderes o la maldijeron?
+
+72
+00:06:51,970 --> 00:06:54,473
+Nació con ellos.
+Y cada día es más fuerte.
+
+73
+00:06:54,931 --> 00:06:56,299
+Muéstremela.
+
+74
+00:06:57,476 --> 00:06:59,645
+Tienen suerte de que no haya sido
+en su corazón.
+
+75
+00:06:59,811 --> 00:07:02,981
+No es tan sencillo cambiar el corazón.
+
+76
+00:07:03,148 --> 00:07:05,609
+Pero podemos persuadir a la mente.
+
+77
+00:07:05,776 --> 00:07:07,444
+Haz lo que debas hacer.
+
+78
+00:07:07,611 --> 00:07:10,155
+Recomiendo quitar toda la magia.
+
+79
+00:07:10,322 --> 00:07:14,159
+Incluso los recuerdos
+de la magia, para estar a salvo.
+
+80
+00:07:15,494 --> 00:07:18,997
+Pero no se preocupen,
+dejaré la diversión.
+
+81
+00:07:23,752 --> 00:07:25,295
+Estará bien.
+
+82
+00:07:25,712 --> 00:07:28,131
+¿Pero no recordará que tengo poderes?
+
+83
+00:07:28,298 --> 00:07:29,633
+Es lo mejor.
+
+84
+00:07:29,800 --> 00:07:35,055
+Escúchame, Elsa.
+Tu poder solo se hará más fuerte.
+
+85
+00:07:35,806 --> 00:07:38,600
+Hay belleza en él...
+
+86
+00:07:39,309 --> 00:07:41,395
+...pero también mucho peligro.
+
+87
+00:07:42,145 --> 00:07:43,772
+Debes aprender a controlarlo.
+
+88
+00:07:44,815 --> 00:07:47,943
+El miedo será tu enemigo.
+
+89
+00:07:49,486 --> 00:07:50,486
+¡No!
+
+90
+00:07:50,779 --> 00:07:52,072
+La protegeremos.
+
+91
+00:07:52,239 --> 00:07:54,408
+Puede aprender a controlarlo,
+estoy seguro.
+
+92
+00:07:54,574 --> 00:07:55,993
+<i>Mientras tanto...</i>
+
+93
+00:07:56,159 --> 00:07:58,245
+<i>...cerraremos las puertas.</i>
+
+94
+00:07:58,412 --> 00:07:59,955
+<i>Reduciremos el personal.</i>
+
+95
+00:08:00,122 --> 00:08:02,624
+<i>Limitaremos su contacto
+con otras personas...</i>
+
+96
+00:08:02,791 --> 00:08:06,169
+<i>...y mantendremos sus poderes
+escondidos de todos.</i>
+
+97
+00:08:08,505 --> 00:08:10,173
+<i>Incluso de Anna.</i>
+
+98
+00:08:21,143 --> 00:08:22,269
+¿Elsa?
+
+99
+00:08:25,022 --> 00:08:28,191
+# ¿Y si hacemos un muñeco? #
+
+100
+00:08:28,358 --> 00:08:31,528
+# Vamos, ven a jugar #
+
+101
+00:08:31,695 --> 00:08:33,655
+# Ya no te veo más #
+
+102
+00:08:33,822 --> 00:08:35,032
+# No sales jamás #
+
+103
+00:08:35,198 --> 00:08:38,035
+# Es como si estuvieras en otro lugar #
+
+104
+00:08:38,201 --> 00:08:42,164
+# Solíamos ser mejores amigas
+Y ahora no lo somos #
+
+105
+00:08:42,331 --> 00:08:44,291
+# Desearía que me dijeras por qué #
+
+106
+00:08:46,209 --> 00:08:49,046
+# ¿Y si hacemos un muñeco? #
+
+107
+00:08:49,212 --> 00:08:51,798
+# No tiene que ser un muñeco #
+
+108
+00:08:51,965 --> 00:08:53,467
+Vete, Anna.
+
+109
+00:08:53,592 --> 00:08:56,553
+# Está bien, adiós #
+
+110
+00:09:02,351 --> 00:09:03,894
+Los guantes ayudarán.
+
+111
+00:09:04,311 --> 00:09:06,188
+¿Ves? Escóndelo.
+
+112
+00:09:06,355 --> 00:09:07,898
+No lo sientas.
+
+113
+00:09:08,065 --> 00:09:09,733
+No lo muestres.
+
+114
+00:09:12,736 --> 00:09:15,489
+# ¿Y si hacemos un muñeco? #
+
+115
+00:09:15,656 --> 00:09:17,199
+# ¿O andamos en bicicleta
+Por los pasillos? #
+
+116
+00:09:18,867 --> 00:09:20,911
+# Creo que nos haría bien
+Hacernos compañía #
+
+117
+00:09:21,078 --> 00:09:24,081
+# Comencé a hablar
+Con los cuadros de las paredes #
+
+118
+00:09:24,247 --> 00:09:25,248
+Aguanta, Joan.
+
+119
+00:09:25,415 --> 00:09:28,835
+# Me siento un poco sola
+En estas habitaciones vacías #
+
+120
+00:09:29,086 --> 00:09:30,879
+# Viendo pasar el tiempo #
+
+121
+00:09:37,886 --> 00:09:38,929
+Tengo miedo.
+
+122
+00:09:39,096 --> 00:09:40,096
+¡Cada vez es más fuerte!
+
+123
+00:09:40,180 --> 00:09:42,766
+Si te disgustas, solo empeora. Cálmate.
+
+124
+00:09:42,933 --> 00:09:44,768
+¡No! ¡No me toques!
+
+125
+00:09:44,935 --> 00:09:47,187
+Por favor, no quiero hacerte daño.
+
+126
+00:09:54,778 --> 00:09:56,780
+¡Nos vemos en dos semanas!
+
+127
+00:09:58,782 --> 00:09:59,950
+¿Tienen que irse?
+
+128
+00:10:00,450 --> 00:10:02,536
+Estarás bien, Elsa.
+
+129
+00:10:41,158 --> 00:10:42,993
+¿Elsa?
+
+130
+00:10:43,160 --> 00:10:46,913
+# Por favor, sé que estás ahí #
+
+131
+00:10:47,080 --> 00:10:49,916
+# La gente pregunta dónde te escondí #
+
+132
+00:10:50,792 --> 00:10:54,338
+# Me dicen que tenga valor
+Y eso intento #
+
+133
+00:10:54,504 --> 00:10:56,340
+# Estoy aquí para ti #
+
+134
+00:10:56,506 --> 00:10:59,509
+# Déjame entrar #
+
+135
+00:10:59,676 --> 00:11:04,139
+# Solo nos tenemos la una a la otra
+Solo somos tú y yo #
+
+136
+00:11:04,473 --> 00:11:10,312
+# ¿Qué vamos a hacer? #
+
+137
+00:11:12,522 --> 00:11:15,275
+# ¿Y si hacemos un muñeco? #
+
+138
+00:11:40,008 --> 00:11:43,887
+Tres años después
+
+139
+00:11:49,643 --> 00:11:51,228
+¡Desembarquen!
+
+140
+00:11:51,395 --> 00:11:52,854
+¡Bienvenidos a Arendelle!
+
+141
+00:11:53,897 --> 00:11:56,733
+Con cuidado, por favor.
+Las puertas abrirán pronto.
+
+142
+00:11:56,900 --> 00:11:58,485
+¿Por qué tengo que usar esto?
+
+143
+00:11:58,652 --> 00:12:02,572
+La reina cumplió la mayoría de edad.
+¡Es la Coronación!
+
+144
+00:12:02,739 --> 00:12:04,825
+No es mi culpa.
+
+145
+00:12:11,915 --> 00:12:13,166
+¿Qué quieres, Sven?
+
+146
+00:12:13,333 --> 00:12:14,584
+"Dame comida".
+
+147
+00:12:14,751 --> 00:12:16,211
+¿Cuál es la palabra mágica?
+
+148
+00:12:16,378 --> 00:12:17,504
+"Por favor".
+
+149
+00:12:18,422 --> 00:12:19,423
+Comparte.
+
+150
+00:12:20,549 --> 00:12:23,051
+¡No puedo creer que finalmente
+abrirán las puertas!
+
+151
+00:12:23,218 --> 00:12:26,722
+¡Y durante todo un día!
+¡Más rápido, Percy!
+
+152
+00:12:27,848 --> 00:12:32,227
+Arendelle, nuestro socio comercial
+más misterioso.
+
+153
+00:12:32,394 --> 00:12:37,107
+Abre esas puertas para ver
+tus secretos y explotar tus riquezas.
+
+154
+00:12:37,524 --> 00:12:38,775
+¿Lo dije en voz alta?
+
+155
+00:12:39,359 --> 00:12:42,195
+No puedo esperar
+para ver a la reina y la princesa.
+
+156
+00:12:42,362 --> 00:12:44,448
+Apuesto a que son
+absolutamente encantadoras.
+
+157
+00:12:44,615 --> 00:12:46,742
+Apuesto a que son hermosas.
+
+158
+00:12:51,455 --> 00:12:53,457
+¿Princesa Anna?
+
+159
+00:12:54,041 --> 00:12:56,084
+- ¿Princesa Anna?
+- ¿Sí?
+
+160
+00:12:56,251 --> 00:12:57,251
+Siento despertarla, señora.
+
+161
+00:12:57,377 --> 00:13:01,298
+No, no, no me despertaste.
+Hace horas que estoy despierta.
+
+162
+00:13:05,802 --> 00:13:06,928
+¿Quién es?
+
+163
+00:13:07,095 --> 00:13:08,472
+Sigo siendo yo, señora.
+
+164
+00:13:08,639 --> 00:13:11,475
+Las puertas se abrirán pronto.
+Es hora de prepararse.
+
+165
+00:13:11,642 --> 00:13:13,602
+Por supuesto.
+
+166
+00:13:13,769 --> 00:13:14,811
+¿Prepararme para qué?
+
+167
+00:13:14,978 --> 00:13:17,397
+La Coronación de su hermana, señora.
+
+168
+00:13:17,564 --> 00:13:20,567
+La "cornenación" de mi hermana.
+
+169
+00:13:23,153 --> 00:13:24,947
+¡Es la Coronación!
+
+170
+00:13:26,907 --> 00:13:28,992
+¡Es la Coronación!
+
+171
+00:13:30,160 --> 00:13:31,161
+# ¡La ventana está abierta! #
+
+172
+00:13:31,328 --> 00:13:32,329
+# ¡Esa puerta también! #
+
+173
+00:13:32,496 --> 00:13:34,831
+# No sabía que se podían abrir #
+
+174
+00:13:34,998 --> 00:13:39,503
+# No sabía que teníamos
+8.000 platos de ensalada #
+
+175
+00:13:39,670 --> 00:13:41,797
+# Me cansé de los pasillos caminar #
+
+176
+00:13:42,172 --> 00:13:44,424
+# Y de no poder bailar #
+
+177
+00:13:44,591 --> 00:13:47,177
+# ¡Finalmente, abrirán las puertas! #
+
+178
+00:13:49,179 --> 00:13:53,684
+# Habrá gente de verdad
+Será muy extraño #
+
+179
+00:13:53,850 --> 00:13:57,980
+# Pero espero esto
+Desde hace años #
+
+180
+00:13:58,146 --> 00:14:02,693
+# Porque finalmente y como nunca #
+
+181
+00:14:02,859 --> 00:14:04,278
+# Habrá música #
+
+182
+00:14:04,444 --> 00:14:07,281
+# Habrá luz #
+
+183
+00:14:07,447 --> 00:14:09,491
+# Finalmente #
+
+184
+00:14:09,658 --> 00:14:11,827
+# Y como nunca #
+
+185
+00:14:11,994 --> 00:14:16,707
+# Bailaré toda la noche #
+
+186
+00:14:16,873 --> 00:14:21,962
+# No sé si estoy eufórica o flatulenta
+Pero es una de las dos #
+
+187
+00:14:22,129 --> 00:14:28,129
+# Porque finalmente y como nunca #
+
+188
+00:14:28,552 --> 00:14:30,804
+# No estaré sola #
+
+189
+00:14:30,971 --> 00:14:33,849
+¡No puedo esperar a conocer a todos!
+
+190
+00:14:34,016 --> 00:14:36,518
+¿Y si conozco
+al hombre de mis sueños?
+
+191
+00:14:36,810 --> 00:14:39,062
+# Esta noche, con mi vestido #
+
+192
+00:14:39,229 --> 00:14:41,523
+# Apoyada, cautivante, en la pared #
+
+193
+00:14:41,690 --> 00:14:46,028
+# La imagen de la gracia sofisticada #
+
+194
+00:14:46,194 --> 00:14:48,488
+# De pronto lo veo ahí de pie #
+
+195
+00:14:48,655 --> 00:14:49,740
+# Un hermoso desconocido #
+
+196
+00:14:49,906 --> 00:14:50,991
+# Alto y atractivo #
+
+197
+00:14:51,158 --> 00:14:55,412
+# ¡Quiero llenarme de chocolate! #
+
+198
+00:14:55,579 --> 00:15:00,417
+# Hablaremos y reiremos toda la noche
+Y eso es muy extraño #
+
+199
+00:15:00,667 --> 00:15:04,087
+# Totalmente diferente a mi vida
+Todos estos años #
+
+200
+00:15:05,547 --> 00:15:09,217
+# Finalmente y como nunca #
+
+201
+00:15:09,384 --> 00:15:13,847
+# Habrá magia, habrá diversión #
+
+202
+00:15:14,014 --> 00:15:18,185
+# Finalmente y como nunca #
+
+203
+00:15:18,352 --> 00:15:22,940
+# Alguien podría verme #
+
+204
+00:15:23,106 --> 00:15:25,734
+# Y sé que es una locura #
+
+205
+00:15:25,901 --> 00:15:28,612
+# Soñar que encontraré el amor #
+
+206
+00:15:28,779 --> 00:15:34,201
+# Pero finalmente y como nunca #
+
+207
+00:15:34,952 --> 00:15:38,622
+# ¡Al menos, podré intentarlo! #
+
+208
+00:15:43,627 --> 00:15:45,796
+# No confíes en ellos #
+
+209
+00:15:45,963 --> 00:15:48,298
+# No permitas que lo vean #
+
+210
+00:15:48,715 --> 00:15:49,967
+# Sé la niña buena #
+
+211
+00:15:50,133 --> 00:15:51,760
+# Que te dijeron que fueras #
+
+212
+00:15:53,804 --> 00:15:55,305
+# Escóndelo #
+
+213
+00:15:55,472 --> 00:15:57,140
+# No sientas #
+
+214
+00:15:57,432 --> 00:15:59,476
+# Actúa #
+
+215
+00:15:59,643 --> 00:16:00,978
+# Un movimiento en falso #
+
+216
+00:16:01,144 --> 00:16:03,647
+# Y todos lo sabrán #
+
+217
+00:16:05,065 --> 00:16:06,483
+# Pero es solo por hoy #
+
+218
+00:16:06,650 --> 00:16:08,735
+# - Es solo por hoy
+- Es una agonía esperar #
+
+219
+00:16:08,902 --> 00:16:10,612
+# Es una agonía esperar #
+
+220
+00:16:10,779 --> 00:16:13,573
+# Diles a los guardias
+Que abran #
+
+221
+00:16:14,074 --> 00:16:16,159
+# La puerta #
+
+222
+00:16:16,326 --> 00:16:18,787
+# La puerta #
+
+223
+00:16:18,954 --> 00:16:22,124
+# Finalmente y como nunca #
+
+224
+00:16:22,291 --> 00:16:27,254
+# - No confíes, que no lo vean
+- Obtendré lo que siempre soñé #
+
+225
+00:16:27,421 --> 00:16:28,421
+# Sé la niña buena #
+
+226
+00:16:28,505 --> 00:16:29,756
+# Que te dijeron que fueras #
+
+227
+00:16:29,923 --> 00:16:31,174
+# Una oportunidad para cambiar #
+
+228
+00:16:31,341 --> 00:16:33,093
+# Mi solitario mundo #
+
+229
+00:16:33,260 --> 00:16:34,428
+# Escóndelo #
+
+230
+00:16:34,594 --> 00:16:37,514
+# Una oportunidad para encontrar
+El amor de verdad #
+
+231
+00:16:37,681 --> 00:16:39,766
+# Escóndelo, no sientas
+No permitas que lo sepan #
+
+232
+00:16:39,933 --> 00:16:41,685
+# Sé que todo termina mañana #
+
+233
+00:16:41,852 --> 00:16:44,980
+# ¡Así que debe ser hoy! #
+
+234
+00:16:45,147 --> 00:16:50,193
+# Porque finalmente y como nunca #
+
+235
+00:16:50,360 --> 00:16:52,696
+# Finalmente #
+
+236
+00:16:52,863 --> 00:16:56,116
+# Y como nunca #
+
+237
+00:16:57,117 --> 00:17:02,164
+# ¡Nada me impide avanzar! #
+
+238
+00:17:06,752 --> 00:17:07,878
+¡Oye!
+
+239
+00:17:08,003 --> 00:17:09,463
+Lo siento, ¿te lastimaste?
+
+240
+00:17:10,130 --> 00:17:11,590
+Hola.
+
+241
+00:17:11,757 --> 00:17:13,717
+No, estoy bien.
+
+242
+00:17:13,884 --> 00:17:14,885
+¿Estás segura?
+
+243
+00:17:15,135 --> 00:17:17,638
+Sí. No miré por dónde iba.
+
+244
+00:17:17,804 --> 00:17:20,223
+Pero estoy muy bien.
+
+245
+00:17:21,141 --> 00:17:22,851
+Gracias al cielo.
+
+246
+00:17:27,189 --> 00:17:29,608
+Príncipe Hans, de las Islas del Sur.
+
+247
+00:17:29,775 --> 00:17:31,234
+Princesa Anna, de Arendelle.
+
+248
+00:17:31,401 --> 00:17:32,694
+¿Princesa? Milady.
+
+249
+00:17:37,532 --> 00:17:39,326
+Hola.
+De nuevo.
+
+250
+00:17:40,035 --> 00:17:41,244
+¡Vaya!
+
+251
+00:17:41,578 --> 00:17:42,704
+Qué torpe.
+
+252
+00:17:42,871 --> 00:17:44,414
+Tú no eres torpe, es que estamos--
+
+253
+00:17:44,581 --> 00:17:47,000
+Yo soy torpe, tú eres hermoso.
+Espera, ¿qué?
+
+254
+00:17:47,167 --> 00:17:50,587
+Pido disculpas por haber golpeado
+a la princesa con mi caballo.
+
+255
+00:17:51,380 --> 00:17:53,006
+Y por todo lo que sucedió después.
+
+256
+00:17:53,173 --> 00:17:54,549
+¡No! Está bien.
+
+257
+00:17:54,716 --> 00:17:55,801
+No soy esa princesa.
+
+258
+00:17:55,968 --> 00:17:58,470
+Es decir, si hubieras golpeado
+a mi hermana Elsa, eso habría sido...
+
+259
+00:17:59,471 --> 00:18:00,889
+Porque ya sabes...
+
+260
+00:18:01,056 --> 00:18:02,224
+Hola.
+
+261
+00:18:02,474 --> 00:18:04,059
+Afortunadamente para ti...
+
+262
+00:18:04,518 --> 00:18:06,019
+...solo soy yo.
+
+263
+00:18:06,645 --> 00:18:07,854
+¿"Solo" eres tú?
+
+264
+00:18:15,279 --> 00:18:16,947
+Las campanas. La Coronación.
+
+265
+00:18:17,114 --> 00:18:19,116
+Será mejor que me vaya.
+
+266
+00:18:19,283 --> 00:18:21,702
+Debo irme. Será mejor que me vaya.
+
+267
+00:18:22,327 --> 00:18:23,870
+¡Adiós!
+
+268
+00:18:25,497 --> 00:18:26,748
+No.
+
+269
+00:19:09,207 --> 00:19:11,460
+Su Majestad, los guantes.
+
+270
+00:19:42,240 --> 00:19:44,993
+La Reina Elsa de Arendelle.
+
+271
+00:19:45,160 --> 00:19:48,288
+¡Reina Elsa de Arendelle!
+
+272
+00:20:05,555 --> 00:20:08,976
+La Reina Elsa de Arendelle.
+
+273
+00:20:10,269 --> 00:20:13,063
+La Princesa Anna de Arendelle.
+
+274
+00:20:18,277 --> 00:20:20,862
+¿Aquí? ¿Estás seguro?
+Porque creo que no se supone que--
+
+275
+00:20:21,029 --> 00:20:22,114
+Está bien.
+
+276
+00:20:30,831 --> 00:20:31,999
+Hola.
+
+277
+00:20:32,332 --> 00:20:34,042
+¿"Hola" a mí?
+
+278
+00:20:35,168 --> 00:20:36,586
+Hola.
+
+279
+00:20:37,921 --> 00:20:38,921
+Estás hermosa.
+
+280
+00:20:39,047 --> 00:20:41,049
+Gracias. Tú estás "hermorda".
+
+281
+00:20:41,216 --> 00:20:42,759
+Es decir, no estás gorda.
+No te ves gorda.
+
+282
+00:20:42,926 --> 00:20:44,386
+Estás más hermosa.
+
+283
+00:20:44,553 --> 00:20:45,679
+Gracias.
+
+284
+00:20:47,014 --> 00:20:48,181
+Así que...
+
+285
+00:20:48,557 --> 00:20:50,767
+...así son las fiestas.
+
+286
+00:20:51,768 --> 00:20:53,103
+Son más cálidas de lo que pensaba.
+
+287
+00:20:53,270 --> 00:20:55,606
+¿Qué es ese increíble olor?
+
+288
+00:20:57,065 --> 00:20:59,318
+Chocolate.
+
+289
+00:21:03,363 --> 00:21:04,615
+Su Majestad.
+
+290
+00:21:04,990 --> 00:21:07,784
+- El Duque de Weaseltonio.
+- ¡"Weselton"!
+
+291
+00:21:08,035 --> 00:21:10,162
+El Duque de Weselton, Su Majestad.
+
+292
+00:21:10,370 --> 00:21:13,457
+Como su socio comercial más cercano,
+me parece apropiado...
+
+293
+00:21:13,624 --> 00:21:14,708
+...que le ofrezca...
+
+294
+00:21:14,875 --> 00:21:16,627
+...su primer baile como reina.
+
+295
+00:21:16,793 --> 00:21:18,337
+Uno, dos y salto.
+
+296
+00:21:23,717 --> 00:21:26,428
+Gracias. Pero no bailo.
+
+297
+00:21:27,137 --> 00:21:28,889
+Pero mi hermana, sí.
+
+298
+00:21:29,056 --> 00:21:30,515
+- ¿Qué?
+- Qué afortunada.
+
+299
+00:21:30,682 --> 00:21:31,682
+Creo que no--
+
+300
+00:21:31,742 --> 00:21:33,810
+Si se va a desmayar, dígamelo.
+La sostendré.
+
+301
+00:21:34,186 --> 00:21:35,320
+Lo siento.
+
+302
+00:21:35,646 --> 00:21:37,689
+Soy un ágil pavo real.
+
+303
+00:21:39,441 --> 00:21:42,444
+Hablando de eso, es fantástico
+que hayan abierto las puertas.
+
+304
+00:21:42,611 --> 00:21:44,738
+¿Por qué las cerraron?
+
+305
+00:21:44,905 --> 00:21:47,324
+¿Sabe por qué?
+
+306
+00:21:47,491 --> 00:21:49,368
+- No.
+- No.
+
+307
+00:21:49,534 --> 00:21:50,994
+Está bien. ¡Agárrese!
+
+308
+00:21:51,161 --> 00:21:52,287
+No me llaman...
+
+309
+00:21:52,454 --> 00:21:53,538
+"Pies Ligeros" por nada.
+
+310
+00:21:54,831 --> 00:21:58,752
+Como un pollo con cara de mono,
+vuelo.
+
+311
+00:22:00,128 --> 00:22:03,131
+Dígame cuando esté lista
+para otro baile, Milady.
+
+312
+00:22:03,674 --> 00:22:05,467
+Qué brioso.
+
+313
+00:22:05,634 --> 00:22:08,011
+Especialmente, para ser un hombre
+con tacones.
+
+314
+00:22:08,178 --> 00:22:09,638
+¿Estás bien?
+
+315
+00:22:10,138 --> 00:22:14,101
+Nunca estuve mejor.
+Esto es muy agradable.
+
+316
+00:22:14,559 --> 00:22:16,937
+Desearía que fuera así todo el tiempo.
+
+317
+00:22:17,271 --> 00:22:18,605
+Yo también.
+
+318
+00:22:21,984 --> 00:22:23,151
+Pero no se puede.
+
+319
+00:22:23,318 --> 00:22:25,529
+- ¿Por qué no?
+- Porque no puedo.
+
+320
+00:22:30,575 --> 00:22:32,202
+Discúlpame un momento.
+
+321
+00:22:41,420 --> 00:22:42,587
+Me alegra haberte atrapado.
+
+322
+00:22:42,754 --> 00:22:43,922
+Hans.
+
+323
+00:22:54,099 --> 00:22:57,227
+¡Tenía todo un salón para deslizarme!
+
+324
+00:22:58,520 --> 00:22:59,563
+Lo siento.
+
+325
+00:22:59,896 --> 00:23:02,316
+Tu físico también ayuda, seguramente.
+
+326
+00:23:07,195 --> 00:23:08,196
+¿Qué es esto?
+
+327
+00:23:08,363 --> 00:23:09,656
+Nací con él.
+
+328
+00:23:09,823 --> 00:23:12,034
+Aunque soñé que me besaba un troll.
+
+329
+00:23:12,200 --> 00:23:13,619
+Me gusta.
+
+330
+00:23:13,785 --> 00:23:15,203
+Sí, todo.
+
+331
+00:23:15,370 --> 00:23:16,371
+Así se hace.
+
+332
+00:23:16,747 --> 00:23:19,583
+Está bien, espera, espera.
+¿Cuántos hermanos tienes?
+
+333
+00:23:19,750 --> 00:23:21,585
+Doce hermanos mayores.
+
+334
+00:23:21,835 --> 00:23:26,214
+Tres de ellos hicieron de cuenta
+que yo era invisible durante dos años.
+
+335
+00:23:26,381 --> 00:23:27,507
+Qué horrible.
+
+336
+00:23:27,674 --> 00:23:29,134
+Es lo que hacen los hermanos.
+
+337
+00:23:29,301 --> 00:23:31,053
+Y las hermanas.
+
+338
+00:23:31,219 --> 00:23:33,347
+Elsa y yo éramos muy unidas
+cuando éramos pequeñas.
+
+339
+00:23:33,513 --> 00:23:36,892
+Pero un día, me dejó afuera...
+
+340
+00:23:37,059 --> 00:23:39,394
+...y nunca supe por qué.
+
+341
+00:23:40,395 --> 00:23:42,147
+Nunca te dejaría afuera.
+
+342
+00:23:44,483 --> 00:23:46,902
+Bueno, ¿puedo decir una locura?
+
+343
+00:23:47,361 --> 00:23:48,695
+Me encantan las locuras.
+
+344
+00:23:48,904 --> 00:23:53,408
+# Toda mi vida ha sido
+Una serie de puertas cerradas #
+
+345
+00:23:53,575 --> 00:23:56,495
+# Y de pronto me choqué contigo #
+
+346
+00:23:56,662 --> 00:23:58,664
+Yo estaba pensando lo mismo porque...
+
+347
+00:23:58,830 --> 00:24:02,960
+# Toda mi vida he buscado
+Mi propio lugar #
+
+348
+00:24:03,126 --> 00:24:07,339
+# Y quizás es por la fiesta
+O la fondue de chocolate #
+
+349
+00:24:07,506 --> 00:24:08,674
+# Pero contigo #
+
+350
+00:24:08,840 --> 00:24:11,093
+# Pero contigo
+Encontré mi lugar #
+
+351
+00:24:11,259 --> 00:24:12,427
+# Veo tu rostro #
+
+352
+00:24:12,803 --> 00:24:16,682
+# Y no se parece
+A nada que haya visto #
+
+353
+00:24:16,848 --> 00:24:17,891
+# ¡La puerta #
+
+354
+00:24:18,058 --> 00:24:21,520
+# Es el amor! #
+
+355
+00:24:21,687 --> 00:24:22,813
+# La puerta #
+
+356
+00:24:22,980 --> 00:24:26,275
+# - Es el amor
+- Es el amor #
+
+357
+00:24:26,441 --> 00:24:27,776
+# La puerta es el amor #
+
+358
+00:24:28,360 --> 00:24:29,653
+# - Contigo
+- Contigo #
+
+359
+00:24:29,820 --> 00:24:31,113
+# - Contigo
+- Contigo #
+
+360
+00:24:31,280 --> 00:24:34,324
+# - La puerta
+- Es el amor #
+
+361
+00:24:41,748 --> 00:24:43,499
+# - Es decir, es una locura #
+- ¿Qué?
+
+362
+00:24:43,500 --> 00:24:45,210
+# - Terminamos
+- El sándwich del otro #
+
+363
+00:24:45,377 --> 00:24:46,378
+¡Eso iba a decir yo!
+
+364
+00:24:46,545 --> 00:24:47,671
+# Nunca conocí a nadie #
+
+365
+00:24:47,838 --> 00:24:49,715
+# Que pensara tan parecido a mí #
+
+366
+00:24:49,881 --> 00:24:51,258
+¡Igual! ¡Igual otra vez!
+
+367
+00:24:51,425 --> 00:24:56,179
+# Nuestra sincronización mental
+Solo puede tener una explicación #
+
+368
+00:24:56,471 --> 00:24:57,471
+# - Tú
+- Y yo #
+
+369
+00:24:57,472 --> 00:24:58,472
+# - Tan solo
+- Somos #
+
+370
+00:24:58,473 --> 00:25:00,142
+# El uno para el otro #
+
+371
+00:25:00,434 --> 00:25:03,020
+# - Despídete
+- Despídete #
+
+372
+00:25:03,353 --> 00:25:05,856
+# Del dolor del pasado #
+
+373
+00:25:06,064 --> 00:25:09,359
+# No tenemos que sentirlo más #
+
+374
+00:25:09,651 --> 00:25:14,072
+# La puerta es el amor #
+
+375
+00:25:14,406 --> 00:25:15,532
+# La puerta #
+
+376
+00:25:15,699 --> 00:25:19,161
+# - Es el amor
+- Es el amor #
+
+377
+00:25:19,328 --> 00:25:20,954
+# La vida puede ser mucho más #
+
+378
+00:25:21,121 --> 00:25:22,539
+# - Contigo
+- Contigo #
+
+379
+00:25:22,706 --> 00:25:24,041
+# - ¡Contigo!
+- ¡Contigo! #
+
+380
+00:25:24,207 --> 00:25:25,292
+# La puerta #
+
+381
+00:25:25,459 --> 00:25:26,960
+# - Es el amor
+- Es el amor #
+
+382
+00:25:29,921 --> 00:25:31,381
+¿Puedo decir una locura?
+
+383
+00:25:31,798 --> 00:25:33,383
+¿Quieres casarte conmigo?
+
+384
+00:25:33,717 --> 00:25:35,636
+¿Puedo decir una locura
+aún más grande?
+
+385
+00:25:35,927 --> 00:25:37,179
+¡Sí!
+
+386
+00:25:42,643 --> 00:25:43,977
+Disculpe. Lo siento.
+
+387
+00:25:44,144 --> 00:25:46,104
+¿Podemos pasar?
+
+388
+00:25:46,271 --> 00:25:47,356
+Gracias.
+
+389
+00:25:47,522 --> 00:25:49,483
+Ahí está.
+¡Elsa!
+
+390
+00:25:49,650 --> 00:25:52,319
+Es decir, Reina. Soy yo otra vez.
+
+391
+00:25:52,486 --> 00:25:56,198
+Te presento al Príncipe Hans,
+de las Islas del Sur.
+
+392
+00:25:56,365 --> 00:25:58,200
+Su Majestad.
+
+393
+00:25:58,408 --> 00:25:59,576
+Nos gustaría...
+
+394
+00:25:59,743 --> 00:26:01,370
+...recibir su bendición...
+
+395
+00:26:01,745 --> 00:26:03,664
+- ...para casarnos.
+- ¡Para casarnos!
+
+396
+00:26:04,456 --> 00:26:06,208
+- ¿Casarse?
+- ¡Sí!
+
+397
+00:26:06,375 --> 00:26:07,626
+Lo siento, estoy confundida.
+
+398
+00:26:07,793 --> 00:26:09,920
+Aún no hemos resuelto
+todos los detalles.
+
+399
+00:26:10,087 --> 00:26:11,505
+Necesitaremos unos días
+para planear la ceremonia.
+
+400
+00:26:11,672 --> 00:26:13,966
+Por supuesto, habrá sopa,
+asado y helado.
+
+401
+00:26:14,216 --> 00:26:15,467
+Espera. ¿Viviríamos aquí?
+
+402
+00:26:15,842 --> 00:26:17,511
+- ¿Aquí?
+- ¡Por supuesto!
+
+403
+00:26:17,678 --> 00:26:18,678
+¡Anna!
+
+404
+00:26:18,737 --> 00:26:20,847
+Podemos invitar a tus doce hermanos
+a vivir con nosotros.
+
+405
+00:26:21,014 --> 00:26:22,014
+No, no, no.
+
+406
+00:26:22,074 --> 00:26:24,142
+- Por supuesto, hay lugar.
+- Esperen, cálmense.
+
+407
+00:26:24,351 --> 00:26:27,521
+Ningún hermano vivirá aquí.
+Nadie se casará.
+
+408
+00:26:27,896 --> 00:26:29,064
+Espera, ¿qué?
+
+409
+00:26:29,231 --> 00:26:32,276
+¿Puedo hablar contigo, por favor?
+A solas.
+
+410
+00:26:32,818 --> 00:26:36,321
+No. Puedes decirnos a los dos
+lo que tengas para decir.
+
+411
+00:26:37,114 --> 00:26:40,033
+Bien. No puedes casarte
+con un hombre que acabas de conocer.
+
+412
+00:26:40,200 --> 00:26:41,994
+Sí puedo, si es amor de verdad.
+
+413
+00:26:42,160 --> 00:26:43,870
+Anna, ¿qué sabes del amor de verdad?
+
+414
+00:26:44,037 --> 00:26:47,249
+Más que tú.
+Tú solo sabes alejar a la gente.
+
+415
+00:26:49,084 --> 00:26:51,962
+Me pediste mi bendición,
+pero mi respuesta es no.
+
+416
+00:26:52,129 --> 00:26:54,423
+Ahora, discúlpenme.
+
+417
+00:26:54,589 --> 00:26:55,924
+Su Majestad, si pudiera--
+
+418
+00:26:56,091 --> 00:26:59,052
+No, no puedes. Creo que deberías irte.
+
+419
+00:26:59,219 --> 00:27:00,762
+La fiesta ha terminado.
+Cierren las puertas.
+
+420
+00:27:00,929 --> 00:27:03,307
+¿Qué?
+¡Elsa, no! Espera.
+
+421
+00:27:03,452 --> 00:27:04,453
+¡Dame mi guante!
+
+422
+00:27:04,558 --> 00:27:08,312
+Elsa, por favor, por favor.
+¡No puedo vivir más así!
+
+423
+00:27:10,022 --> 00:27:11,189
+Entonces vete.
+
+424
+00:27:16,778 --> 00:27:18,363
+¿Qué te hice?
+
+425
+00:27:18,530 --> 00:27:19,656
+Es suficiente, Anna.
+
+426
+00:27:19,823 --> 00:27:21,825
+No, ¿por qué? ¿Por qué me alejaste?
+
+427
+00:27:21,992 --> 00:27:23,577
+¿Por qué alejas al mundo?
+
+428
+00:27:23,744 --> 00:27:25,454
+¿A qué le temes tanto?
+
+429
+00:27:25,621 --> 00:27:26,872
+¡Dije que es suficiente!
+
+430
+00:27:35,631 --> 00:27:37,007
+Hechicería.
+
+431
+00:27:37,174 --> 00:27:40,344
+Sabía que había
+algo sospechoso aquí.
+
+432
+00:27:40,969 --> 00:27:42,054
+Elsa.
+
+433
+00:27:49,144 --> 00:27:50,478
+¡Ahí está!
+
+434
+00:27:56,026 --> 00:27:58,028
+¡Sí! ¡Es ella!
+
+435
+00:27:58,195 --> 00:27:59,363
+Reina Elsa.
+
+436
+00:28:00,489 --> 00:28:02,199
+¡Nuestra hermosa reina!
+
+437
+00:28:02,366 --> 00:28:04,701
+¿Su Majestad? ¿Está usted bien?
+
+438
+00:28:16,338 --> 00:28:17,839
+¡Ahí está! ¡Deténganla!
+
+439
+00:28:18,006 --> 00:28:20,801
+Por favor, aléjense de mí. Aléjense.
+
+440
+00:28:23,512 --> 00:28:25,639
+Monstruo. ¡Monstruo!
+
+441
+00:28:33,480 --> 00:28:34,606
+¡Elsa!
+
+442
+00:28:47,786 --> 00:28:48,996
+¡Espera, por favor!
+
+443
+00:29:01,883 --> 00:29:03,093
+¡Elsa, detente!
+
+444
+00:29:03,260 --> 00:29:04,428
+¡Anna!
+
+445
+00:29:04,720 --> 00:29:05,846
+No.
+
+446
+00:29:11,560 --> 00:29:12,894
+El fiordo.
+
+447
+00:29:31,663 --> 00:29:34,041
+- ¡Nieve!
+- ¿Nieve?
+
+448
+00:29:35,125 --> 00:29:36,710
+- ¿Estás bien?
+- No.
+
+449
+00:29:37,127 --> 00:29:38,378
+¿Lo sabías?
+
+450
+00:29:39,212 --> 00:29:40,422
+No.
+
+451
+00:29:40,797 --> 00:29:42,507
+Mira, está nevando. ¡Está nevando!
+
+452
+00:29:42,674 --> 00:29:44,134
+¡La reina maldijo esta tierra!
+
+453
+00:29:44,301 --> 00:29:46,428
+¡Debemos detenerla!
+Tienen que ir a buscarla.
+
+454
+00:29:46,595 --> 00:29:47,763
+¡Esperen, no!
+
+455
+00:29:47,971 --> 00:29:50,223
+¡Tú! ¿También eres una hechicera?
+
+456
+00:29:50,390 --> 00:29:52,017
+¿También eres un monstruo?
+
+457
+00:29:52,184 --> 00:29:55,020
+No, no, soy totalmente ordinaria.
+
+458
+00:29:55,187 --> 00:29:56,730
+Es verdad, lo es.
+
+459
+00:29:57,481 --> 00:29:58,982
+En la mejor manera posible.
+
+460
+00:29:59,149 --> 00:30:00,984
+Y mi hermana no es un monstruo.
+
+461
+00:30:01,151 --> 00:30:02,527
+¡Casi me mata!
+
+462
+00:30:02,694 --> 00:30:04,112
+- Se resbaló en el hielo.
+- Su hielo.
+
+463
+00:30:04,279 --> 00:30:06,782
+Fue un accidente. Estaba asustada.
+
+464
+00:30:06,949 --> 00:30:09,868
+No quiso hacerlo.
+No quiso hacer nada de esto.
+
+465
+00:30:10,035 --> 00:30:12,204
+Todo fue mi culpa. Yo la presioné.
+
+466
+00:30:12,371 --> 00:30:15,040
+- Yo debo ir tras ella.
+- ¿Qué?
+
+467
+00:30:15,207 --> 00:30:17,125
+- Tráeme mi caballo, por favor.
+- Anna, no.
+
+468
+00:30:17,501 --> 00:30:19,086
+Es demasiado peligroso.
+
+469
+00:30:19,252 --> 00:30:20,921
+Elsa no es peligrosa.
+
+470
+00:30:21,088 --> 00:30:22,756
+La traeré de regreso y arreglaré todo.
+
+471
+00:30:22,923 --> 00:30:23,923
+Iré contigo.
+
+472
+00:30:23,924 --> 00:30:27,803
+No, te necesito aquí
+para cuidar de Arendelle.
+
+473
+00:30:27,970 --> 00:30:29,721
+Por mi honor.
+
+474
+00:30:31,515 --> 00:30:33,517
+Dejo al Príncipe Hans a cargo.
+
+475
+00:30:35,185 --> 00:30:37,271
+¿Estás segura
+de que puedes confiar en ella?
+
+476
+00:30:37,437 --> 00:30:38,939
+No quiero que te haga daño.
+
+477
+00:30:39,147 --> 00:30:40,857
+Es mi hermana.
+
+478
+00:30:41,024 --> 00:30:43,026
+Nunca me haría daño.
+
+479
+00:31:23,442 --> 00:31:26,528
+# La nieve brilla blanca
+En la montaña esta noche #
+
+480
+00:31:26,695 --> 00:31:29,740
+# No se ve ni una huella #
+
+481
+00:31:30,449 --> 00:31:33,535
+# Un reino de aislamiento #
+
+482
+00:31:33,702 --> 00:31:36,997
+# Y parece que yo soy la reina #
+
+483
+00:31:38,123 --> 00:31:40,450
+# El viento aúlla #
+
+484
+00:31:40,500 --> 00:31:44,296
+# Como esta tormenta dentro de mí #
+
+485
+00:31:45,088 --> 00:31:50,636
+# No pude contenerlo
+Dios sabe que lo intenté #
+
+486
+00:31:52,054 --> 00:31:55,432
+# No confíes en ellos
+No permitas que lo vean #
+
+487
+00:31:55,599 --> 00:31:58,894
+# Sé la niña buena
+Que siempre debes ser #
+
+488
+00:31:59,061 --> 00:32:04,942
+# Escóndelo, no sientas
+No permitas que lo sepan #
+
+489
+00:32:05,108 --> 00:32:08,362
+# Bueno, ahora lo saben #
+
+490
+00:32:08,528 --> 00:32:12,199
+# ¡Libre soy!
+¡Libre soy! #
+
+491
+00:32:12,366 --> 00:32:15,535
+# No puedo retenerlo más tiempo #
+
+492
+00:32:15,702 --> 00:32:18,872
+# ¡Libre soy!
+¡Libre soy! #
+
+493
+00:32:19,122 --> 00:32:23,085
+# Da la vuelta y cierra la puerta #
+
+494
+00:32:23,627 --> 00:32:25,587
+# No me importa #
+
+495
+00:32:25,754 --> 00:32:29,216
+# Qué dirán #
+
+496
+00:32:29,633 --> 00:32:33,512
+# Libera la tormenta #
+
+497
+00:32:33,679 --> 00:32:37,307
+# El frío nunca me molestó #
+
+498
+00:32:40,894 --> 00:32:44,153
+# Es gracioso cómo la distancia #
+
+499
+00:32:44,203 --> 00:32:47,067
+# Hace que todo parezca pequeño #
+
+500
+00:32:47,317 --> 00:32:50,696
+# Y los miedos que me controlaban #
+
+501
+00:32:50,862 --> 00:32:54,825
+# Ahora no me afectan #
+
+502
+00:32:55,242 --> 00:32:58,620
+# Es hora de ver de qué soy capaz #
+
+503
+00:32:58,787 --> 00:33:01,206
+# Probar los límites e ir más allá #
+
+504
+00:33:02,457 --> 00:33:03,542
+# No hay bien, no hay mal #
+
+505
+00:33:03,875 --> 00:33:05,961
+# No hay reglas para mí #
+
+506
+00:33:06,461 --> 00:33:08,213
+# ¡Soy libre! #
+
+507
+00:33:09,965 --> 00:33:11,300
+# ¡Libre soy! #
+
+508
+00:33:11,591 --> 00:33:13,051
+# ¡Libre soy! #
+
+509
+00:33:13,510 --> 00:33:15,387
+# Soy una con el viento y el cielo #
+
+510
+00:33:17,097 --> 00:33:20,434
+# ¡Libre soy!
+¡Libre soy! #
+
+511
+00:33:20,601 --> 00:33:24,396
+# Nunca me verán llorar #
+
+512
+00:33:24,563 --> 00:33:27,524
+# Aquí estoy #
+
+513
+00:33:27,691 --> 00:33:30,777
+# Y aquí me quedaré #
+
+514
+00:33:31,153 --> 00:33:35,240
+# Libera la tormenta #
+
+515
+00:33:42,623 --> 00:33:46,597
+# Mi poder se agita en el aire #
+
+516
+00:33:46,647 --> 00:33:49,379
+# Y llega hasta el suelo #
+
+517
+00:33:49,546 --> 00:33:54,009
+# Mi alma hace espirales
+En fractales congelados #
+
+518
+00:33:54,176 --> 00:33:56,511
+# Por todos lados #
+
+519
+00:33:56,678 --> 00:34:00,323
+# Y un pensamiento se cristaliza #
+
+520
+00:34:00,373 --> 00:34:03,268
+# Como una explosión de hielo #
+
+521
+00:34:03,560 --> 00:34:06,313
+# Nunca regresaré #
+
+522
+00:34:06,480 --> 00:34:11,109
+# El pasado ha pasado #
+
+523
+00:34:11,276 --> 00:34:14,821
+# ¡Libre soy!
+¡Libre soy! #
+
+524
+00:34:14,988 --> 00:34:18,116
+# Me alzaré como el sol al amanecer #
+
+525
+00:34:18,283 --> 00:34:22,079
+# ¡Libre soy!
+¡Libre soy! #
+
+526
+00:34:22,245 --> 00:34:25,832
+# La niña perfecta se ha ido #
+
+527
+00:34:25,999 --> 00:34:28,460
+# Aquí estoy #
+
+528
+00:34:28,627 --> 00:34:30,796
+# A la luz del día #
+
+529
+00:34:34,299 --> 00:34:39,763
+# ¡Libera la tormenta! #
+
+530
+00:34:39,930 --> 00:34:43,684
+# El frío nunca me molestó #
+
+531
+00:34:48,772 --> 00:34:50,524
+¡Elsa!
+
+532
+00:34:51,441 --> 00:34:53,568
+¡Elsa!
+
+533
+00:34:55,362 --> 00:34:57,239
+Elsa, soy yo, Anna...
+
+534
+00:34:57,406 --> 00:35:00,701
+...tu hermana que no quiso
+hacer que congelaras el verano.
+
+535
+00:35:00,867 --> 00:35:04,579
+Lo siento. Todo es mi culpa.
+
+536
+00:35:06,081 --> 00:35:10,085
+Por supuesto, nada habría sucedido
+si me hubiese contado su secreto.
+
+537
+00:35:10,419 --> 00:35:12,129
+Es una mentirosilla.
+
+538
+00:35:17,384 --> 00:35:18,635
+¡No, no, no! ¡Regresa!
+
+539
+00:35:18,802 --> 00:35:20,304
+¡No, no, no!
+
+540
+00:35:20,762 --> 00:35:22,681
+Bien.
+
+541
+00:35:28,729 --> 00:35:31,398
+Nieve. Tenía que ser nieve.
+
+542
+00:35:31,565 --> 00:35:34,234
+No podría haber tenido magia tropical...
+
+543
+00:35:34,401 --> 00:35:38,238
+...que cubriera los fiordos
+con arena blanca y cálido--
+
+544
+00:35:39,197 --> 00:35:41,241
+¡Fuego!
+
+545
+00:35:48,665 --> 00:35:50,417
+Frío, frío, frío.
+
+546
+00:36:05,265 --> 00:36:07,684
+ALMACÉN DEL ERRANTE OAKEN
+
+547
+00:36:08,977 --> 00:36:10,312
+Y SPA
+
+548
+00:36:18,570 --> 00:36:20,030
+Gran liquidación de verano.
+
+549
+00:36:20,197 --> 00:36:25,369
+Trajes de baño a mitad de precio,
+zuecos y protector solar hecho por mí.
+
+550
+00:36:26,787 --> 00:36:30,082
+Fantástico. Por ahora,
+¿qué tal unas botas?
+
+551
+00:36:30,248 --> 00:36:32,042
+¿Botas y vestidos de invierno?
+
+552
+00:36:32,584 --> 00:36:34,628
+Eso está en nuestro
+departamento de invierno.
+
+553
+00:36:39,383 --> 00:36:40,467
+Me preguntaba...
+
+554
+00:36:40,634 --> 00:36:45,389
+...si alguna otra joven,
+la reina, quizás...
+
+555
+00:36:45,555 --> 00:36:46,556
+...había pasado por aquí.
+
+556
+00:36:46,807 --> 00:36:50,477
+La única loca que salió
+con esta tormenta eres tú, cariño.
+
+557
+00:36:56,900 --> 00:36:58,151
+Tú y este muchacho.
+
+558
+00:36:59,403 --> 00:37:00,612
+Gran liquidación de verano.
+
+559
+00:37:05,450 --> 00:37:06,660
+Zanahorias.
+
+560
+00:37:08,662 --> 00:37:09,663
+Detrás de ti.
+
+561
+00:37:10,747 --> 00:37:12,833
+Sí. Disculpa.
+
+562
+00:37:13,959 --> 00:37:15,919
+Qué tormenta para esta época, ¿cierto?
+
+563
+00:37:16,336 --> 00:37:18,588
+¿De dónde podría estar viniendo?
+
+564
+00:37:18,839 --> 00:37:20,299
+De la Montaña del Norte.
+
+565
+00:37:20,590 --> 00:37:22,342
+Montaña del Norte.
+
+566
+00:37:22,509 --> 00:37:23,677
+Serían cuarenta.
+
+567
+00:37:23,844 --> 00:37:25,679
+¿Cuarenta? No, diez.
+
+568
+00:37:25,846 --> 00:37:26,846
+Vaya, eso no está bien.
+
+569
+00:37:26,972 --> 00:37:29,016
+Verás, eso es de nuestras
+existencias de invierno...
+
+570
+00:37:29,182 --> 00:37:30,851
+...cuando la oferta y la demanda
+son un gran problema.
+
+571
+00:37:31,018 --> 00:37:33,312
+¿Quieres hablar de un problema
+de oferta y demanda?
+
+572
+00:37:33,478 --> 00:37:34,938
+Yo me dedico a vender hielo.
+
+573
+00:37:35,105 --> 00:37:36,815
+Qué negocio duro en estos tiempos.
+
+574
+00:37:36,982 --> 00:37:38,942
+Es decir, que...
+
+575
+00:37:39,276 --> 00:37:40,360
+Qué desafortunado.
+
+576
+00:37:40,527 --> 00:37:41,612
+Sigue costando cuarenta.
+
+577
+00:37:41,778 --> 00:37:44,323
+Pero le daré una visita
+al spa de Oaken.
+
+578
+00:37:45,115 --> 00:37:46,158
+Hola, familia.
+
+579
+00:37:48,118 --> 00:37:50,829
+Diez es todo lo que tengo. Ayúdame.
+
+580
+00:37:50,996 --> 00:37:53,624
+Está bien.
+Con diez obtendrás esto y nada más.
+
+581
+00:37:53,727 --> 00:37:54,728
+Solo dime una cosa.
+
+582
+00:37:54,833 --> 00:37:56,627
+¿Qué sucedía
+en la Montaña del Norte?
+
+583
+00:37:56,793 --> 00:37:58,629
+¿Parecía algo mágico?
+
+584
+00:37:59,546 --> 00:38:00,672
+¡Sí!
+
+585
+00:38:00,839 --> 00:38:03,967
+Ahora aléjate mientras
+me ocupo de este bribón.
+
+586
+00:38:06,887 --> 00:38:08,805
+¿Cómo me llamaste?
+
+587
+00:38:09,473 --> 00:38:10,682
+Está bien, está bien.
+
+588
+00:38:12,476 --> 00:38:13,560
+Adiós.
+
+589
+00:38:18,649 --> 00:38:21,693
+No, Sven, no te conseguí zanahorias.
+
+590
+00:38:22,319 --> 00:38:24,488
+Pero conseguí un lugar para dormir.
+
+591
+00:38:24,655 --> 00:38:26,323
+Y es gratis.
+
+592
+00:38:27,741 --> 00:38:29,326
+Siento mucho toda esa violencia.
+
+593
+00:38:29,493 --> 00:38:32,829
+<i>Agregaré un cuarto de lutefisk
+para que no haya rencores.</i>
+
+594
+00:38:32,996 --> 00:38:34,998
+Solo el vestido y las botas, ¿sí?
+
+595
+00:38:45,592 --> 00:38:48,679
+# Los renos son mejores
+Que los humanos #
+
+596
+00:38:49,179 --> 00:38:52,683
+# Sven, ¿no crees que sea verdad? #
+
+597
+00:38:52,849 --> 00:38:55,852
+# "Sí, la gente te golpea,
+te maldice y te hace trampa #
+
+598
+00:38:56,019 --> 00:38:58,772
+# Todos son malos, excepto tú" #
+
+599
+00:38:59,189 --> 00:39:00,607
+Gracias, amigo.
+
+600
+00:39:00,899 --> 00:39:04,236
+# Pero los humanos
+Huelen mejor que los renos #
+
+601
+00:39:04,403 --> 00:39:07,531
+# Sven, ¿no crees que tengo razón? #
+
+602
+00:39:08,198 --> 00:39:11,952
+# "Eso también es verdad para todos,
+Excepto para ti" #
+
+603
+00:39:12,202 --> 00:39:15,289
+# Tienes razón
+Vayamos a dormir #
+
+604
+00:39:15,455 --> 00:39:17,541
+# "Buenas noches" #
+
+605
+00:39:17,708 --> 00:39:21,011
+# Que sueñes con #
+
+606
+00:39:22,161 --> 00:39:24,548
+# Angelitos de hielo #
+
+607
+00:39:25,048 --> 00:39:26,550
+Qué lindo dúo.
+
+608
+00:39:27,634 --> 00:39:29,886
+Solo eres tú. ¿Qué quieres?
+
+609
+00:39:30,137 --> 00:39:32,389
+Quiero que me lleves
+a la Montaña del Norte.
+
+610
+00:39:35,392 --> 00:39:37,311
+No llevo a la gente a ningún lugar.
+
+611
+00:39:37,978 --> 00:39:39,605
+Permíteme que lo diga de nuevo.
+
+612
+00:39:40,564 --> 00:39:41,564
+Oye.
+
+613
+00:39:41,898 --> 00:39:43,734
+Llévame a la Montaña del Norte.
+
+614
+00:39:43,984 --> 00:39:45,444
+Por favor.
+
+615
+00:39:50,907 --> 00:39:53,410
+Mira, sé cómo detener este invierno.
+
+616
+00:39:55,579 --> 00:39:57,289
+Nos vamos al amanecer.
+
+617
+00:39:57,456 --> 00:39:59,916
+Y te olvidaste de las zanahorias
+para Sven.
+
+618
+00:40:00,834 --> 00:40:01,834
+Lo siento.
+
+619
+00:40:01,835 --> 00:40:03,587
+Lo siento, no quise--
+
+620
+00:40:04,504 --> 00:40:07,591
+Nos vamos ahora. Ahora mismo.
+
+621
+00:40:19,102 --> 00:40:21,271
+¡Sujétate! Nos gusta ir rápido.
+
+622
+00:40:21,438 --> 00:40:22,773
+Me gusta ir rápido.
+
+623
+00:40:23,774 --> 00:40:25,484
+Baja los pies. Está recién barnizado.
+
+624
+00:40:25,651 --> 00:40:27,361
+¿Te criaste en un granero?
+
+625
+00:40:28,487 --> 00:40:31,448
+No, me crié en un castillo.
+
+626
+00:40:32,532 --> 00:40:34,159
+Dime...
+
+627
+00:40:34,326 --> 00:40:36,536
+...¿qué puso a la reina
+tan helada de ira?
+
+628
+00:40:36,787 --> 00:40:37,787
+Bueno...
+
+629
+00:40:38,038 --> 00:40:39,456
+...fue mi culpa.
+
+630
+00:40:39,623 --> 00:40:41,792
+Me comprometí y ella se enfadó...
+
+631
+00:40:41,959 --> 00:40:44,336
+...porque lo conocí ese día.
+
+632
+00:40:44,836 --> 00:40:46,630
+Y dijo que no aprobaría
+el matrimonio y--
+
+633
+00:40:46,797 --> 00:40:50,133
+Espera. ¿Te comprometiste
+con alguien que recién conocías?
+
+634
+00:40:50,300 --> 00:40:53,136
+Sí. Y yo me enfadé, ella se enfadó...
+
+635
+00:40:53,303 --> 00:40:55,472
+...e intentó irse,
+y yo le quité el guante--
+
+636
+00:40:55,639 --> 00:40:56,639
+¡Espera!
+
+637
+00:40:56,640 --> 00:41:01,395
+¿Te comprometiste con un hombre
+que acababas de conocer?
+
+638
+00:41:01,561 --> 00:41:02,813
+Sí. Presta atención.
+
+639
+00:41:02,980 --> 00:41:05,816
+Pero la cosa es que usaba
+los guantes todo el tiempo...
+
+640
+00:41:05,983 --> 00:41:08,318
+...y yo pensé que quizás
+le molestaba el polvo.
+
+641
+00:41:08,485 --> 00:41:11,029
+¿Tus padres no te advirtieron
+sobre los desconocidos?
+
+642
+00:41:11,989 --> 00:41:14,157
+Sí, lo hicieron.
+
+643
+00:41:14,324 --> 00:41:16,827
+Pero Hans no es un desconocido.
+
+644
+00:41:16,994 --> 00:41:18,704
+¿Cuál es su apellido?
+
+645
+00:41:19,413 --> 00:41:21,206
+"De las Islas del Sur".
+
+646
+00:41:21,373 --> 00:41:22,666
+- ¿Cuál es su comida preferida?
+- Sándwiches.
+
+647
+00:41:22,833 --> 00:41:24,001
+- ¿Nombre de su mejor amigo?
+- Probablemente, John.
+
+648
+00:41:24,167 --> 00:41:25,168
+- ¿Color de ojos?
+- Soñados.
+
+649
+00:41:25,335 --> 00:41:26,920
+- ¿Talla de zapatos?
+- La talla de zapatos no importa.
+
+650
+00:41:27,087 --> 00:41:29,589
+¿Ya comiste con él?
+¿Qué harás si odias cómo come?
+
+651
+00:41:29,756 --> 00:41:31,174
+¿Qué harás si odias cómo
+se mete el dedo en la nariz?
+
+652
+00:41:31,341 --> 00:41:32,509
+¿El dedo en la nariz?
+
+653
+00:41:32,676 --> 00:41:33,719
+Y se lo come.
+
+654
+00:41:33,885 --> 00:41:36,346
+Disculpe, señor. Él es un príncipe.
+
+655
+00:41:37,180 --> 00:41:38,765
+Todos los hombres lo hacen.
+
+656
+00:41:39,516 --> 00:41:42,227
+Mira, no importa. Es amor de verdad.
+
+657
+00:41:42,394 --> 00:41:43,937
+No suena a amor de verdad.
+
+658
+00:41:44,104 --> 00:41:46,440
+¿Y tú eres un experto en amor?
+
+659
+00:41:46,857 --> 00:41:49,526
+No, pero tengo amigos que lo son.
+
+660
+00:41:49,693 --> 00:41:53,280
+¿Tienes amigos que son expertos
+en amor? No te creo.
+
+661
+00:41:53,447 --> 00:41:54,948
+- Deja de hablar.
+- No, no, no.
+
+662
+00:41:55,115 --> 00:41:57,034
+- Me gustaría conocer...
+- No, de veras.
+
+663
+00:42:11,715 --> 00:42:13,149
+Sven, corre. ¡Corre!
+
+664
+00:42:14,760 --> 00:42:16,053
+- ¿Qué son?
+- Lobos.
+
+665
+00:42:16,219 --> 00:42:17,219
+¿Lobos?
+
+666
+00:42:19,890 --> 00:42:21,266
+- ¿Qué hacemos?
+- Yo me encargo.
+
+667
+00:42:21,433 --> 00:42:23,560
+No te caigas y no dejes que te coman.
+
+668
+00:42:23,727 --> 00:42:24,978
+- ¡Pero quiero ayudar!
+- No.
+
+669
+00:42:25,145 --> 00:42:26,730
+- ¿Por qué no?
+- Porque no confío en tu criterio.
+
+670
+00:42:26,897 --> 00:42:27,940
+¿Discúlpame?
+
+671
+00:42:28,148 --> 00:42:29,900
+¿Quién se casa con un hombre
+que acaba de conocer?
+
+672
+00:42:30,067 --> 00:42:31,318
+¡Es amor de verdad!
+
+673
+00:42:34,154 --> 00:42:35,489
+¡Christopher!
+
+674
+00:42:35,656 --> 00:42:37,282
+¡Me llamo Kristoff!
+
+675
+00:42:41,828 --> 00:42:42,828
+¡Agáchate!
+
+676
+00:42:47,250 --> 00:42:48,502
+¡Casi me prendes fuego!
+
+677
+00:42:48,669 --> 00:42:49,795
+Pero no lo hice.
+
+678
+00:42:56,259 --> 00:42:57,594
+Prepárate para saltar, Sven.
+
+679
+00:42:57,761 --> 00:42:58,929
+No le digas qué hacer.
+
+680
+00:42:59,096 --> 00:43:00,597
+- ¡Oye!
+- ¡Yo se lo digo!
+
+681
+00:43:01,598 --> 00:43:02,599
+¡Salta, Sven!
+
+682
+00:43:17,281 --> 00:43:19,032
+Acababa de pagarlo.
+
+683
+00:43:19,658 --> 00:43:20,784
+No. No.
+
+684
+00:43:21,201 --> 00:43:22,201
+¡No!
+
+685
+00:43:22,286 --> 00:43:23,286
+¡No, no, no!
+
+686
+00:43:24,121 --> 00:43:25,163
+¡Sujétate!
+
+687
+00:43:25,622 --> 00:43:27,040
+Tira, Sven. ¡Tira!
+
+688
+00:43:39,011 --> 00:43:42,681
+Reemplazaré tu trineo
+y todo lo que había adentro.
+
+689
+00:43:44,224 --> 00:43:48,520
+Y comprenderé
+si ya no quieres ayudarme.
+
+690
+00:43:53,317 --> 00:43:56,153
+Claro que ya no quiero ayudarla.
+De hecho...
+
+691
+00:43:56,570 --> 00:43:59,698
+...todo esto hizo
+que nunca más quiera ayudar a nadie.
+
+692
+00:43:59,906 --> 00:44:02,743
+- ¿Será por aquí?
+- "Pero morirá sola".
+
+693
+00:44:02,909 --> 00:44:04,703
+- Podría soportarlo.
+- Eso es.
+
+694
+00:44:04,870 --> 00:44:07,831
+"Pero no obtendrás tu trineo nuevo
+si ella está muerta".
+
+695
+00:44:07,998 --> 00:44:09,583
+Creo que es hacia arriba.
+
+696
+00:44:09,750 --> 00:44:11,585
+A veces, no me caes bien.
+
+697
+00:44:11,752 --> 00:44:14,004
+¡Espera! Iremos contigo.
+
+698
+00:44:14,108 --> 00:44:15,109
+¿De veras?
+
+699
+00:44:15,213 --> 00:44:18,675
+Es decir, bueno.
+Sí, permitiré que vengan.
+
+700
+00:44:29,436 --> 00:44:30,854
+Arendelle.
+
+701
+00:44:31,355 --> 00:44:33,523
+Está completamente congelada.
+
+702
+00:44:35,359 --> 00:44:37,778
+Pero todo estará bien.
+Elsa lo derretirá.
+
+703
+00:44:37,945 --> 00:44:39,112
+¿Lo hará?
+
+704
+00:44:39,279 --> 00:44:42,866
+Sí. Ahora vamos.
+¿Hacia allá está la Montaña del Norte?
+
+705
+00:44:44,034 --> 00:44:46,620
+En realidad, es hacia allá.
+
+706
+00:45:18,235 --> 00:45:22,239
+No sabía que el invierno
+podía ser tan hermoso.
+
+707
+00:45:22,739 --> 00:45:23,907
+¡Sí!
+
+708
+00:45:24,074 --> 00:45:26,493
+Es hermoso, ¿verdad?
+
+709
+00:45:26,660 --> 00:45:27,995
+Pero es muy blanco.
+
+710
+00:45:28,578 --> 00:45:30,414
+¿Qué opinan
+de ponerle un poco de color?
+
+711
+00:45:30,580 --> 00:45:33,500
+Pensaba en un color carmesí,
+un verde amarillento.
+
+712
+00:45:33,667 --> 00:45:35,335
+¿Qué les parece el amarillo?
+
+713
+00:45:35,502 --> 00:45:37,796
+No, amarillo no. ¿Amarillo y nieve?
+
+714
+00:45:38,588 --> 00:45:39,756
+No van.
+
+715
+00:45:42,759 --> 00:45:43,844
+¿No es verdad?
+
+716
+00:45:44,803 --> 00:45:46,263
+- Hola.
+- Eres espeluznante.
+
+717
+00:45:46,430 --> 00:45:47,472
+Yo no lo quiero.
+
+718
+00:45:47,639 --> 00:45:48,640
+- Yo tampoco.
+- Por favor, no me dejen caer.
+
+719
+00:45:48,807 --> 00:45:50,183
+Vamos, es solo una cabeza.
+
+720
+00:45:50,350 --> 00:45:51,435
+Comenzamos con el pie izquierdo.
+
+721
+00:45:51,602 --> 00:45:52,644
+¡El cuerpo!
+
+722
+00:45:56,815 --> 00:45:58,650
+Esperen, ¿qué estoy mirando?
+
+723
+00:45:58,817 --> 00:46:01,028
+¿Por qué cuelgan de la tierra
+como si fueran murciélagos?
+
+724
+00:46:01,194 --> 00:46:02,779
+Está bien, espera un segundo.
+
+725
+00:46:05,365 --> 00:46:06,992
+- Gracias.
+- De nada.
+
+726
+00:46:07,159 --> 00:46:08,285
+Ahora estoy perfecto.
+
+727
+00:46:09,453 --> 00:46:10,787
+Bueno, casi.
+
+728
+00:46:10,954 --> 00:46:13,040
+Fue como si toda mi vida
+se hubiese puesto de cabeza.
+
+729
+00:46:13,665 --> 00:46:14,708
+Mucha fuerza, ¡lo siento!
+
+730
+00:46:15,667 --> 00:46:17,044
+- Qué mareo.
+- ¿Estás bien?
+
+731
+00:46:17,210 --> 00:46:20,339
+¿Estás bromeando?
+¡Estoy de maravilla!
+
+732
+00:46:20,505 --> 00:46:22,132
+Siempre quise tener una nariz.
+
+733
+00:46:22,299 --> 00:46:25,677
+Es muy linda.
+Como un unicornio bebé.
+
+734
+00:46:27,846 --> 00:46:29,973
+Me gusta incluso más que antes.
+
+735
+00:46:30,724 --> 00:46:33,977
+Está bien, comencemos de nuevo.
+Hola a todos.
+
+736
+00:46:34,144 --> 00:46:35,144
+Soy Olaf.
+
+737
+00:46:35,228 --> 00:46:36,521
+Y adoro los abrazos.
+
+738
+00:46:37,814 --> 00:46:39,066
+¿Olaf?
+
+739
+00:46:42,069 --> 00:46:44,321
+Así es. Olaf.
+
+740
+00:46:45,072 --> 00:46:47,324
+¿Y tú eres...?
+
+741
+00:46:48,909 --> 00:46:49,910
+Soy Anna.
+
+742
+00:46:50,077 --> 00:46:52,204
+¿Y quién es ese burro extraño?
+
+743
+00:46:52,371 --> 00:46:53,830
+Ese es Sven.
+
+744
+00:46:53,997 --> 00:46:55,582
+¿Y quién es el reno?
+
+745
+00:46:56,083 --> 00:46:57,167
+Sven.
+
+746
+00:46:58,001 --> 00:47:00,545
+Bien, eso me facilita las cosas.
+
+747
+00:47:01,171 --> 00:47:02,506
+Mira cómo intenta besar mi nariz.
+
+748
+00:47:02,673 --> 00:47:04,758
+- A mí también me agradas.
+- Olaf.
+
+749
+00:47:04,925 --> 00:47:07,177
+- ¿Elsa te hizo?
+- Sí, ¿por qué?
+
+750
+00:47:07,344 --> 00:47:09,429
+- ¿Sabes dónde está?
+- Sí, ¿por qué?
+
+751
+00:47:09,596 --> 00:47:11,848
+- ¿Crees que podrías guiarnos?
+- Sí, ¿por qué?
+
+752
+00:47:12,015 --> 00:47:13,267
+¿Cómo funciona esto?
+
+753
+00:47:13,767 --> 00:47:15,894
+Basta, Sven. Intento concentrarme.
+
+754
+00:47:16,061 --> 00:47:17,061
+Sí, ¿por qué?
+
+755
+00:47:17,187 --> 00:47:18,188
+Te diré por qué.
+
+756
+00:47:18,605 --> 00:47:20,274
+Necesitamos que Elsa
+traiga el verano de regreso.
+
+757
+00:47:20,440 --> 00:47:22,025
+¿El verano?
+
+758
+00:47:22,567 --> 00:47:23,567
+No sé por qué...
+
+759
+00:47:23,694 --> 00:47:27,364
+...pero siempre me gustó
+la idea del verano.
+
+760
+00:47:27,531 --> 00:47:30,784
+Y el sol y las cosas calientes.
+
+761
+00:47:30,951 --> 00:47:31,951
+¿De veras?
+
+762
+00:47:32,035 --> 00:47:34,454
+Supongo que no tienes
+mucha experiencia con el calor.
+
+763
+00:47:34,621 --> 00:47:35,789
+No.
+
+764
+00:47:35,956 --> 00:47:38,792
+Pero a veces me gusta cerrar los ojos...
+
+765
+00:47:38,959 --> 00:47:42,546
+...e imaginarme cómo será
+cuando llegue el verano.
+
+766
+00:47:45,424 --> 00:47:49,594
+# Las abejas zumbarán
+Los niños soplarán los dientes de león #
+
+767
+00:47:49,761 --> 00:47:54,558
+# Y yo haré lo que sea
+Que hace la nieve en verano #
+
+768
+00:47:56,393 --> 00:47:58,437
+# Una bebida en la mano #
+
+769
+00:47:58,604 --> 00:48:00,939
+# Mi nieve contra la arena caliente #
+
+770
+00:48:01,106 --> 00:48:05,277
+# Probablemente, tendré
+Un bronceado hermoso en el verano #
+
+771
+00:48:05,444 --> 00:48:07,487
+# Veré cómo la brisa del verano #
+
+772
+00:48:07,654 --> 00:48:09,740
+# Aleja una tormenta invernal #
+
+773
+00:48:09,906 --> 00:48:14,953
+# Y veré qué le sucede al agua sólida
+Cuando se calienta #
+
+774
+00:48:16,496 --> 00:48:20,917
+# No puedo esperar para saber
+Qué piensan mis amigos de mí #
+
+775
+00:48:21,084 --> 00:48:25,589
+# Imagínense cuánto más fantástico seré
+Durante el verano #
+
+776
+00:48:30,135 --> 00:48:32,346
+# El calor y el frío
+Son tan intensos #
+
+777
+00:48:32,512 --> 00:48:35,015
+# Júntalos y tienen sentido #
+
+778
+00:48:39,269 --> 00:48:41,271
+# El invierno es bueno
+Para dar abrazos #
+
+779
+00:48:41,438 --> 00:48:43,941
+# Pero pónganme en verano
+Y seré #
+
+780
+00:48:44,691 --> 00:48:46,193
+# ¡Un muñeco feliz! #
+
+781
+00:48:46,360 --> 00:48:47,444
+# Cuando la vida es muy dura #
+
+782
+00:48:47,611 --> 00:48:50,989
+# Me gusta recordar mi sueño #
+
+783
+00:48:51,156 --> 00:48:55,327
+# De relajarme en el sol de verano
+Y descansar #
+
+784
+00:48:56,828 --> 00:48:58,288
+# El cielo #
+
+785
+00:48:58,455 --> 00:49:00,374
+# Será azul #
+
+786
+00:49:00,540 --> 00:49:04,962
+# Y ustedes también estarán ahí
+Cuando finalmente haga #
+
+787
+00:49:05,462 --> 00:49:08,799
+# ¡Lo que hacen
+las cosas congeladas en verano! #
+
+788
+00:49:09,633 --> 00:49:11,885
+- Se lo diré.
+- No te atrevas.
+
+789
+00:49:12,886 --> 00:49:18,225
+# ¡Verano! #
+
+790
+00:49:20,018 --> 00:49:22,187
+¡Vamos! Elsa está por aquí.
+
+791
+00:49:22,354 --> 00:49:25,357
+"¡Vamos a recuperar el verano!"
+
+792
+00:49:25,524 --> 00:49:26,984
+¡Ahí voy!
+
+793
+00:49:28,527 --> 00:49:30,362
+Alguien debe decírselo.
+
+794
+00:49:35,492 --> 00:49:37,661
+No, no, la corteza está hacia abajo.
+
+795
+00:49:37,828 --> 00:49:39,329
+La corteza debe estar hacia arriba.
+
+796
+00:49:39,496 --> 00:49:41,248
+La corteza hacia abajo es más seca.
+
+797
+00:49:41,415 --> 00:49:42,499
+- ¡Corteza hacia arriba!
+- ¡Corteza hacia abajo!
+
+798
+00:49:42,666 --> 00:49:44,751
+¿Una capa?
+¿Alguien necesita una capa?
+
+799
+00:49:44,918 --> 00:49:47,838
+Arendelle está endeudado con usted,
+Su Alteza.
+
+800
+00:49:48,005 --> 00:49:49,214
+El castillo está abierto.
+
+801
+00:49:49,381 --> 00:49:52,342
+<i>Hay sopa y glogg caliente
+en el vestíbulo.</i>
+
+802
+00:49:52,676 --> 00:49:53,677
+Toma, reparte esto.
+
+803
+00:49:53,844 --> 00:49:55,012
+¡Príncipe Hans!
+
+804
+00:49:55,178 --> 00:49:57,556
+¿Se supone que debamos esperar
+aquí y congelarnos...
+
+805
+00:49:57,723 --> 00:50:00,601
+...mientras usted regala
+los bienes comerciables de Arendelle?
+
+806
+00:50:00,851 --> 00:50:02,185
+La Princesa Anna ha dado órdenes.
+
+807
+00:50:02,352 --> 00:50:03,854
+¡Eso es otra cosa!
+
+808
+00:50:04,021 --> 00:50:05,606
+¿Se le ha ocurrido que es posible...
+
+809
+00:50:05,656 --> 00:50:07,858
+...que su princesa esté conspirando
+con una hechicera...
+
+810
+00:50:08,025 --> 00:50:10,736
+- ...para destruirnos a todos?
+- No cuestiones a la princesa.
+
+811
+00:50:10,902 --> 00:50:12,404
+Me dejó a mí a cargo...
+
+812
+00:50:12,571 --> 00:50:15,240
+...y no dudaré en proteger
+a Arendelle de una traición.
+
+813
+00:50:16,074 --> 00:50:17,367
+¿Traición?
+
+814
+00:50:23,790 --> 00:50:25,292
+Calma, muchacho, calma.
+
+815
+00:50:25,459 --> 00:50:26,459
+Calma.
+
+816
+00:50:26,460 --> 00:50:27,628
+Es el caballo de la Princesa Anna.
+
+817
+00:50:27,794 --> 00:50:29,713
+¿Dónde está la princesa?
+
+818
+00:50:32,090 --> 00:50:34,092
+La Princesa Anna está en problemas.
+
+819
+00:50:34,259 --> 00:50:36,970
+Necesito voluntarios
+para ir conmigo a buscarla.
+
+820
+00:50:38,305 --> 00:50:40,390
+Ofrezco dos hombres, Milord.
+
+821
+00:50:40,724 --> 00:50:42,142
+Prepárense para todo.
+
+822
+00:50:42,309 --> 00:50:44,895
+Y si encuentran a la reina...
+
+823
+00:50:45,062 --> 00:50:48,065
+...terminen con este invierno.
+
+824
+00:50:48,231 --> 00:50:49,900
+¿Comprenden?
+
+825
+00:50:54,071 --> 00:50:57,240
+¿Cómo planeas detener
+este clima, exactamente?
+
+826
+00:50:57,407 --> 00:50:59,826
+Hablaré con mi hermana.
+
+827
+00:50:59,993 --> 00:51:01,078
+¿Ese es tu plan?
+
+828
+00:51:01,244 --> 00:51:03,914
+¿Mi negocio de hielo depende
+de que tú hables con tu hermana?
+
+829
+00:51:04,081 --> 00:51:05,248
+Sí.
+
+830
+00:51:06,083 --> 00:51:07,668
+¿Entonces no le tienes miedo?
+
+831
+00:51:07,834 --> 00:51:08,834
+¿Por qué habría de temerle?
+
+832
+00:51:08,919 --> 00:51:10,504
+Sí, apuesto a que es la persona...
+
+833
+00:51:10,671 --> 00:51:14,800
+...más buena, amable y cálida del mundo.
+
+834
+00:51:14,967 --> 00:51:16,426
+Mira eso.
+
+835
+00:51:16,593 --> 00:51:18,261
+Estoy empalado.
+
+836
+00:51:23,100 --> 00:51:24,101
+¿Ahora qué?
+
+837
+00:51:27,271 --> 00:51:28,272
+Es demasiado empinado.
+
+838
+00:51:28,438 --> 00:51:30,941
+Solo tengo una cuerda
+y tú no sabes escalar montañas.
+
+839
+00:51:31,108 --> 00:51:32,192
+¿Quién lo dice?
+
+840
+00:51:34,027 --> 00:51:35,153
+¿Qué haces?
+
+841
+00:51:35,362 --> 00:51:39,324
+Voy a ver a mi hermana.
+
+842
+00:51:39,491 --> 00:51:40,993
+Te matarás.
+
+843
+00:51:41,785 --> 00:51:43,620
+Yo no pondría el pie ahí.
+
+844
+00:51:43,787 --> 00:51:45,372
+- Me estás distrayendo.
+- Ni ahí.
+
+845
+00:51:45,539 --> 00:51:47,457
+¿Cómo sabes si Elsa quiere verte?
+
+846
+00:51:47,624 --> 00:51:51,295
+No te escucharé más
+porque tengo que concentrarme.
+
+847
+00:51:52,212 --> 00:51:55,173
+Sabes, la gente que se va
+a las montañas quiere estar sola.
+
+848
+00:51:55,549 --> 00:51:57,801
+Nadie quiere estar solo.
+
+849
+00:51:57,968 --> 00:51:59,136
+Excepto tú, quizás.
+
+850
+00:51:59,303 --> 00:52:02,514
+No estoy solo.
+Tengo amigos, ¿recuerdas?
+
+851
+00:52:03,181 --> 00:52:05,225
+¿Te refieres a los expertos en amor?
+
+852
+00:52:05,392 --> 00:52:07,477
+Sí, los expertos en amor.
+
+853
+00:52:10,188 --> 00:52:11,982
+Por favor, dime que casi llego.
+
+854
+00:52:12,983 --> 00:52:15,360
+¿No te parece que el aire
+está un poco enrarecido aquí?
+
+855
+00:52:16,987 --> 00:52:19,031
+- Espera.
+- Oye, Sven.
+
+856
+00:52:19,197 --> 00:52:20,991
+No sé si esto resolverá el problema...
+
+857
+00:52:21,158 --> 00:52:22,993
+...pero encontré
+una escalera que lleva...
+
+858
+00:52:23,160 --> 00:52:24,202
+...exactamente adonde quieren ir.
+
+859
+00:52:24,703 --> 00:52:26,246
+Gracias al cielo. ¡Atrápame!
+
+860
+00:52:27,831 --> 00:52:31,043
+Gracias. Ese fue un ejercicio
+de confianza bastante loco.
+
+861
+00:52:45,349 --> 00:52:47,893
+Cuánto hielo.
+
+862
+00:52:48,393 --> 00:52:49,436
+Creo que voy a llorar.
+
+863
+00:52:49,603 --> 00:52:52,564
+Adelante. No te juzgaré.
+
+864
+00:52:59,446 --> 00:53:01,365
+Está bien, tranquilo, amigo. Ven aquí.
+
+865
+00:53:01,531 --> 00:53:02,866
+Te tengo.
+
+866
+00:53:03,367 --> 00:53:05,702
+Bien. Quédate aquí, amigo.
+
+867
+00:53:07,746 --> 00:53:09,289
+Impecable.
+
+868
+00:53:14,294 --> 00:53:15,754
+Golpea.
+
+869
+00:53:16,421 --> 00:53:17,756
+Solo golpea.
+
+870
+00:53:18,757 --> 00:53:20,550
+¿Por qué no golpea?
+
+871
+00:53:21,301 --> 00:53:23,053
+¿Crees que sabe cómo golpear?
+
+872
+00:53:28,433 --> 00:53:29,768
+Se abrió.
+
+873
+00:53:29,935 --> 00:53:31,478
+Qué novedad.
+
+874
+00:53:32,437 --> 00:53:34,940
+- Será mejor que esperes aquí.
+- ¿Qué?
+
+875
+00:53:35,107 --> 00:53:37,276
+La última vez que le presenté
+a alguien, congeló todo.
+
+876
+00:53:37,442 --> 00:53:39,611
+Pero... ¡Vamos!
+
+877
+00:53:39,778 --> 00:53:42,698
+Es un palacio de hielo.
+¡El hielo es mi vida!
+
+878
+00:53:42,864 --> 00:53:43,865
+Adiós, Sven.
+
+879
+00:53:44,032 --> 00:53:45,617
+Tú también, Olaf.
+
+880
+00:53:45,784 --> 00:53:47,869
+- ¿Yo?
+- Danos tan solo un minuto.
+
+881
+00:53:48,036 --> 00:53:49,246
+Está bien.
+
+882
+00:53:50,122 --> 00:53:51,915
+Uno, dos...
+
+883
+00:53:52,666 --> 00:53:53,666
+...tres...
+
+884
+00:53:53,667 --> 00:53:54,667
+...cuatro.
+
+885
+00:54:06,054 --> 00:54:07,431
+¿Elsa?
+
+886
+00:54:07,931 --> 00:54:10,350
+Soy yo, Anna.
+
+887
+00:54:13,979 --> 00:54:15,439
+Anna.
+
+888
+00:54:19,276 --> 00:54:23,113
+Vaya. Elsa, te ves diferente.
+
+889
+00:54:23,280 --> 00:54:24,823
+Es un diferente bueno.
+
+890
+00:54:25,282 --> 00:54:26,617
+Y este lugar...
+
+891
+00:54:26,867 --> 00:54:28,285
+...es increíble.
+
+892
+00:54:28,452 --> 00:54:29,453
+Gracias.
+
+893
+00:54:29,620 --> 00:54:32,205
+Nunca supe de qué era capaz.
+
+894
+00:54:32,372 --> 00:54:34,207
+Lamento mucho lo que sucedió.
+
+895
+00:54:34,374 --> 00:54:35,374
+Si hubiera sabido--
+
+896
+00:54:35,459 --> 00:54:37,169
+No, no, no. Está bien.
+
+897
+00:54:37,336 --> 00:54:41,298
+No tienes que pedir perdón,
+pero deberías irte.
+
+898
+00:54:41,506 --> 00:54:42,506
+Por favor.
+
+899
+00:54:42,633 --> 00:54:43,967
+Pero acabo de llegar.
+
+900
+00:54:44,468 --> 00:54:46,136
+Perteneces a Arendelle.
+
+901
+00:54:46,303 --> 00:54:47,471
+Tú también.
+
+902
+00:54:47,638 --> 00:54:49,973
+No, Anna, yo pertenezco aquí.
+
+903
+00:54:50,849 --> 00:54:52,142
+Sola.
+
+904
+00:54:52,351 --> 00:54:56,521
+Donde puedo ser quien soy
+sin lastimar a nadie.
+
+905
+00:54:56,688 --> 00:54:59,191
+En realidad, hablando de eso--
+
+906
+00:54:59,358 --> 00:55:01,234
+- ¡Sesenta!
+- Espera. ¿Qué es eso?
+
+907
+00:55:01,652 --> 00:55:04,237
+¡Hola, soy Olaf y adoro los abrazos!
+
+908
+00:55:04,988 --> 00:55:06,197
+¿Olaf?
+
+909
+00:55:06,823 --> 00:55:08,033
+Tú me hiciste.
+
+910
+00:55:08,492 --> 00:55:09,826
+¿Recuerdas?
+
+911
+00:55:10,202 --> 00:55:11,328
+¿Y estás vivo?
+
+912
+00:55:12,871 --> 00:55:14,373
+Eso creo.
+
+913
+00:55:15,832 --> 00:55:18,669
+Es como el que hicimos
+cuando éramos niñas.
+
+914
+00:55:19,503 --> 00:55:20,671
+Sí.
+
+915
+00:55:20,837 --> 00:55:22,673
+Elsa, éramos tan unidas.
+
+916
+00:55:23,423 --> 00:55:25,217
+Podemos volver a ser así.
+
+917
+00:55:26,551 --> 00:55:27,928
+<i>- ¡Atrápame!
+- ¡Más despacio!</i>
+
+918
+00:55:31,515 --> 00:55:33,058
+¡Anna!
+
+919
+00:55:35,636 --> 00:55:36,687
+No.
+
+920
+00:55:36,853 --> 00:55:39,356
+No, no podemos. Adiós, Anna.
+
+921
+00:55:39,523 --> 00:55:42,526
+- Elsa, espera.
+- No, solo intento protegerte.
+
+922
+00:55:42,693 --> 00:55:45,862
+No tienes que protegerme.
+No tengo miedo.
+
+923
+00:55:46,029 --> 00:55:47,948
+Por favor, no me ignores de nuevo.
+
+924
+00:55:48,115 --> 00:55:50,033
+# Por favor, no cierres la puerta #
+
+925
+00:55:50,200 --> 00:55:54,162
+# No tienes que alejarte más #
+
+926
+00:55:54,329 --> 00:55:57,082
+# Porque finalmente y como nunca #
+
+927
+00:55:57,249 --> 00:55:59,293
+# Por fin lo entiendo #
+
+928
+00:55:59,459 --> 00:56:01,753
+# Finalmente y como nunca #
+
+929
+00:56:01,920 --> 00:56:03,880
+# Podemos arreglar esto juntas #
+
+930
+00:56:04,047 --> 00:56:06,300
+Podemos bajar juntas de esta montaña.
+
+931
+00:56:06,466 --> 00:56:09,219
+# No tienes que vivir con miedo #
+
+932
+00:56:09,386 --> 00:56:13,223
+# Porque finalmente y como nunca #
+
+933
+00:56:13,390 --> 00:56:16,435
+# Estaré aquí #
+
+934
+00:56:16,602 --> 00:56:17,602
+Anna.
+
+935
+00:56:17,728 --> 00:56:19,771
+# Por favor, regresa a casa #
+
+936
+00:56:19,938 --> 00:56:21,815
+# Tu vida te espera #
+
+937
+00:56:22,399 --> 00:56:25,611
+# Ve a disfrutar el sol
+Y abre las puertas #
+
+938
+00:56:25,819 --> 00:56:27,321
+- Sí, pero--
+- Lo sé.
+
+939
+00:56:27,487 --> 00:56:31,783
+# Tus intenciones son buenas
+Pero déjame sola #
+
+940
+00:56:31,950 --> 00:56:33,952
+# Sí, estoy sola #
+
+941
+00:56:34,119 --> 00:56:36,079
+# Pero estoy sola y libre #
+
+942
+00:56:36,246 --> 00:56:41,084
+# Aléjate
+Y estarás a salvo de mí #
+
+943
+00:56:42,085 --> 00:56:43,253
+# En realidad, no #
+
+944
+00:56:43,420 --> 00:56:45,672
+# - ¿Qué quieres decir?
+- Creo que no lo sabes #
+
+945
+00:56:45,839 --> 00:56:47,341
+# ¿Qué es lo que no sé? #
+
+946
+00:56:47,799 --> 00:56:53,430
+# Arendelle está sepultada
+Bajo mucha, mucha nieve #
+
+947
+00:56:53,930 --> 00:56:54,930
+¿Qué?
+
+948
+00:56:54,931 --> 00:56:58,810
+Es como si hubieras provocado
+un invierno eterno en todos lados.
+
+949
+00:56:59,019 --> 00:57:00,103
+¿En todos lados?
+
+950
+00:57:00,270 --> 00:57:01,980
+Está bien, puedes descongelarlo.
+
+951
+00:57:02,147 --> 00:57:04,191
+No, no puedo. No sé cómo.
+
+952
+00:57:04,358 --> 00:57:06,818
+Sí que puedes. Yo sé que puedes.
+
+953
+00:57:06,985 --> 00:57:12,916
+# - Finalmente y como nunca
+- ¡Qué tonta soy! ¡No puedo ser libre! #
+
+954
+00:57:13,283 --> 00:57:18,789
+# - No tienes que tener miedo
+- No puedo escapar de esta tormenta #
+
+955
+00:57:18,956 --> 00:57:22,459
+# - Podemos arreglarlo juntas
+- ¡No puedo controlar la maldición! #
+
+956
+00:57:22,626 --> 00:57:25,796
+# Revertiremos la tormenta que armaste #
+
+957
+00:57:25,963 --> 00:57:28,548
+# ¡Anna, solo empeorarás las cosas! #
+
+958
+00:57:28,715 --> 00:57:30,968
+# - No entres en pánico
+- ¡Tengo mucho miedo! #
+
+959
+00:57:31,134 --> 00:57:33,804
+# - Haremos que el sol brille
+- ¡No estás a salvo aquí! #
+
+960
+00:57:33,971 --> 00:57:36,640
+# - Podemos enfrentar esto juntas
+- ¡No! #
+
+961
+00:57:36,807 --> 00:57:41,979
+# Podemos cambiar este clima invernal
+Y todo estará bien #
+
+962
+00:57:42,145 --> 00:57:44,731
+# ¡No puedo! #
+
+963
+00:57:52,948 --> 00:57:53,991
+¡Anna!
+
+964
+00:57:54,616 --> 00:57:55,617
+¿Estás bien?
+
+965
+00:57:56,118 --> 00:57:57,494
+Estoy bien.
+
+966
+00:57:57,661 --> 00:57:58,661
+Estoy bien.
+
+967
+00:57:58,787 --> 00:57:59,830
+¿Quién es él?
+
+968
+00:57:59,997 --> 00:58:01,707
+Espera, no importa.
+
+969
+00:58:01,873 --> 00:58:02,873
+Tienes que irte.
+
+970
+00:58:03,000 --> 00:58:05,794
+No, sé que podemos
+solucionar esto juntas.
+
+971
+00:58:05,961 --> 00:58:06,961
+¿Cómo?
+
+972
+00:58:06,962 --> 00:58:09,339
+¿Qué poder tienes
+para detener este invierno?
+
+973
+00:58:09,506 --> 00:58:10,716
+¿Para detenerme a mí?
+
+974
+00:58:10,882 --> 00:58:12,259
+Anna, creo que deberíamos irnos.
+
+975
+00:58:12,426 --> 00:58:14,344
+No, no me iré sin ti, Elsa.
+
+976
+00:58:14,511 --> 00:58:16,096
+Sí, te irás.
+
+977
+00:58:24,855 --> 00:58:26,773
+¡Basta! ¡Suéltanos!
+
+978
+00:58:26,940 --> 00:58:28,984
+Váyanse.
+
+979
+00:58:32,112 --> 00:58:33,196
+¡Cuidado!
+
+980
+00:58:34,197 --> 00:58:35,490
+¡Cuidado con mi trasero!
+
+981
+00:58:37,159 --> 00:58:40,162
+¡No es lindo arrojar a la gente!
+
+982
+00:58:40,329 --> 00:58:42,205
+Espera, pequeña guerrera.
+Tranquilízate.
+
+983
+00:58:42,372 --> 00:58:44,458
+- ¡Cálmate!
+- ¡Está bien!
+
+984
+00:58:44,625 --> 00:58:46,043
+- Estoy tranquila.
+- Deja tranquilo al muñeco.
+
+985
+00:58:46,209 --> 00:58:47,878
+- Estoy tranquila.
+- Fantástico.
+
+986
+00:58:48,211 --> 00:58:49,211
+¡Vamos!
+
+987
+00:58:53,050 --> 00:58:54,551
+Mira, ¿ves? Ahora lo hiciste enfadar.
+
+988
+00:58:54,718 --> 00:58:57,012
+Yo lo distraeré, ustedes vayan.
+
+989
+00:58:57,888 --> 00:58:59,806
+¡No, no! ¡Ustedes no!
+
+990
+00:59:00,849 --> 00:59:02,392
+Esto se puso mucho más difícil.
+
+991
+00:59:05,020 --> 00:59:06,188
+¡Cuidado!
+
+992
+00:59:20,702 --> 00:59:21,703
+¿Qué estás haciendo?
+
+993
+00:59:25,874 --> 00:59:27,250
+¡Le di!
+
+994
+00:59:27,834 --> 00:59:28,919
+¡Detente!
+
+995
+00:59:29,086 --> 00:59:30,253
+Es una caída de 30 metros.
+
+996
+00:59:30,712 --> 00:59:31,880
+Son 60 metros.
+
+997
+00:59:34,174 --> 00:59:36,093
+- ¿Para qué haces eso?
+- Es un ancla de nieve.
+
+998
+00:59:36,259 --> 00:59:37,719
+Bien. ¿Qué pasa si caemos?
+
+999
+00:59:38,261 --> 00:59:40,055
+Hay seis metros de nieve en polvo
+ahí abajo.
+
+1000
+00:59:40,222 --> 00:59:41,682
+Será como aterrizar
+sobre una almohada.
+
+1001
+00:59:41,848 --> 00:59:43,058
+Esperemos.
+
+1002
+00:59:46,228 --> 00:59:48,230
+Bien, Anna, a la cuenta de tres.
+
+1003
+00:59:48,689 --> 00:59:50,440
+- Uno...
+- Dime cuándo, estoy lista.
+
+1004
+00:59:50,607 --> 00:59:52,276
+- Dos...
+- ¡Nací lista!
+
+1005
+00:59:52,442 --> 00:59:53,442
+Cálmate.
+
+1006
+00:59:56,280 --> 00:59:57,281
+¡Sí!
+
+1007
+00:59:57,739 --> 00:59:58,740
+¿Qué--
+
+1008
+01:00:00,450 --> 01:00:01,535
+Eso sí sucedió.
+
+1009
+01:00:04,204 --> 01:00:05,872
+Vaya, estoy fuera de forma.
+
+1010
+01:00:10,460 --> 01:00:12,629
+Muy bien. ¡Oye, Anna!
+
+1011
+01:00:12,796 --> 01:00:14,298
+¡Sven! ¿Adónde se fueron?
+
+1012
+01:00:14,464 --> 01:00:16,591
+Perdimos a Malvavisco.
+
+1013
+01:00:17,384 --> 01:00:19,886
+Justo estábamos hablando de ti.
+
+1014
+01:00:20,095 --> 01:00:22,431
+Todas cosas buenas,
+todas cosas buenas.
+
+1015
+01:00:22,597 --> 01:00:23,640
+¡No!
+
+1016
+01:00:26,977 --> 01:00:30,147
+Esto no te afecta mucho, ¿verdad?
+
+1017
+01:00:31,481 --> 01:00:32,716
+¡Olaf!
+
+1018
+01:00:33,275 --> 01:00:34,610
+¡Resistan, chicos!
+
+1019
+01:00:34,776 --> 01:00:36,403
+¡Más rápido!
+
+1020
+01:00:37,988 --> 01:00:39,948
+Espera, ¿qué sucede?
+
+1021
+01:00:45,329 --> 01:00:46,455
+¡Kristoff!
+
+1022
+01:00:48,582 --> 01:00:50,667
+¡No regresen!
+
+1023
+01:00:51,293 --> 01:00:52,919
+No lo haremos.
+
+1024
+01:01:00,260 --> 01:01:03,347
+Tenías razón. Como una almohada.
+
+1025
+01:01:04,014 --> 01:01:05,182
+¡Olaf!
+
+1026
+01:01:05,349 --> 01:01:08,268
+¡No siento las piernas!
+¡No siento las piernas!
+
+1027
+01:01:09,686 --> 01:01:11,021
+Esas son mis piernas.
+
+1028
+01:01:11,188 --> 01:01:13,148
+Hazme un favor, agarra mi trasero.
+
+1029
+01:01:13,815 --> 01:01:15,359
+Así está mucho mejor.
+
+1030
+01:01:15,609 --> 01:01:18,153
+¡Sven! Nos encontró.
+
+1031
+01:01:18,320 --> 01:01:20,030
+¿Quién es mi reno tan lindo?
+
+1032
+01:01:20,197 --> 01:01:21,865
+No le hables así.
+
+1033
+01:01:22,783 --> 01:01:24,201
+Me haces cosquillas.
+
+1034
+01:01:24,952 --> 01:01:26,286
+Ven.
+
+1035
+01:01:27,496 --> 01:01:28,538
+¿Estás bien?
+
+1036
+01:01:28,705 --> 01:01:29,998
+Gracias.
+
+1037
+01:01:31,166 --> 01:01:32,376
+¿Cómo está tu cabeza?
+
+1038
+01:01:34,211 --> 01:01:35,211
+Está bien.
+
+1039
+01:01:35,295 --> 01:01:37,005
+Estoy bien. Tengo un cráneo duro.
+
+1040
+01:01:37,172 --> 01:01:38,840
+Yo no tengo cráneo.
+
+1041
+01:01:39,716 --> 01:01:40,717
+Ni huesos.
+
+1042
+01:01:41,051 --> 01:01:43,637
+¿Y ahora qué?
+
+1043
+01:01:43,804 --> 01:01:45,138
+¿Ahora qué?
+
+1044
+01:01:45,847 --> 01:01:47,224
+¿Ahora qué?
+
+1045
+01:01:48,809 --> 01:01:50,227
+¿Qué voy a hacer?
+
+1046
+01:01:50,394 --> 01:01:51,561
+Me echó.
+
+1047
+01:01:51,728 --> 01:01:54,064
+No puedo regresar a Arendelle
+con el clima así.
+
+1048
+01:01:54,231 --> 01:01:55,399
+Y también está tu negocio de hielo--
+
+1049
+01:01:55,565 --> 01:01:58,402
+Oye, oye. No te preocupes
+por mi negocio de hielo.
+
+1050
+01:01:58,819 --> 01:01:59,819
+¡Preocúpate por tu cabello!
+
+1051
+01:01:59,903 --> 01:02:02,489
+¿Qué? Caí por un acantilado.
+Deberías ver tu cabello.
+
+1052
+01:02:02,656 --> 01:02:04,241
+No, el tuyo se está poniendo blanco.
+
+1053
+01:02:04,408 --> 01:02:05,909
+¿Blanco? Es...
+
+1054
+01:02:06,243 --> 01:02:07,243
+¿Qué?
+
+1055
+01:02:07,327 --> 01:02:09,329
+Es porque te golpeó, ¿verdad?
+
+1056
+01:02:09,913 --> 01:02:11,581
+¿Se ve muy mal?
+
+1057
+01:02:12,666 --> 01:02:14,042
+- No.
+- Dudaste.
+
+1058
+01:02:14,209 --> 01:02:15,209
+No dudé.
+
+1059
+01:02:15,502 --> 01:02:17,379
+Anna, necesitas ayuda,
+¿está bien? Vamos.
+
+1060
+01:02:17,546 --> 01:02:19,047
+Bien. ¿Adónde vamos?
+
+1061
+01:02:19,214 --> 01:02:20,340
+A ver a mis amigos.
+
+1062
+01:02:20,507 --> 01:02:21,758
+¿Los expertos en amor?
+
+1063
+01:02:21,925 --> 01:02:23,552
+- ¿Expertos en amor?
+- Sí.
+
+1064
+01:02:23,719 --> 01:02:26,013
+Y no te preocupes,
+podrán arreglar esto.
+
+1065
+01:02:26,179 --> 01:02:27,431
+¿Cómo lo sabes?
+
+1066
+01:02:28,682 --> 01:02:31,101
+Porque ya los he visto hacerlo.
+
+1067
+01:02:31,685 --> 01:02:34,396
+Me gusta pensar que yo soy
+un experto en amor.
+
+1068
+01:02:38,942 --> 01:02:40,611
+No lo dejes salir.
+
+1069
+01:02:40,902 --> 01:02:42,446
+Contrólate.
+
+1070
+01:02:42,613 --> 01:02:44,448
+No sientas. No sientas.
+
+1071
+01:02:44,740 --> 01:02:46,366
+No sientas.
+
+1072
+01:02:46,533 --> 01:02:48,243
+¡No sientas!
+
+1073
+01:03:02,966 --> 01:03:05,636
+Mira, Sven, el cielo está despierto.
+
+1074
+01:03:08,472 --> 01:03:09,472
+¿Tienes frío?
+
+1075
+01:03:09,556 --> 01:03:11,892
+Un poco.
+
+1076
+01:03:13,644 --> 01:03:15,228
+Espera. Ven aquí.
+
+1077
+01:03:19,232 --> 01:03:20,483
+Entonces...
+
+1078
+01:03:20,984 --> 01:03:22,778
+...acerca de mis amigos--
+
+1079
+01:03:22,945 --> 01:03:24,154
+Digo "amigos"...
+
+1080
+01:03:24,321 --> 01:03:26,114
+...pero son como mi familia.
+
+1081
+01:03:26,281 --> 01:03:29,159
+Como sea, cuando era pequeño,
+estaba solo, con Sven.
+
+1082
+01:03:29,326 --> 01:03:31,578
+Hasta que ellos nos adoptaron.
+
+1083
+01:03:31,745 --> 01:03:33,455
+- ¿De veras?
+- Sí.
+
+1084
+01:03:33,622 --> 01:03:34,665
+No quiero asustarte.
+
+1085
+01:03:34,831 --> 01:03:39,503
+A veces son inapropiados y ruidosos.
+
+1086
+01:03:39,670 --> 01:03:40,671
+Muy ruidosos.
+
+1087
+01:03:40,837 --> 01:03:43,757
+También, a veces, son testarudos
+y un poco dominantes.
+
+1088
+01:03:43,924 --> 01:03:46,843
+Y pesados. Muy, muy pesados.
+
+1089
+01:03:47,260 --> 01:03:49,179
+Pero ya verás.
+Sus intenciones son buenas--
+
+1090
+01:03:49,346 --> 01:03:51,640
+Kristoff, parecen maravillosos.
+
+1091
+01:03:53,267 --> 01:03:55,018
+Está bien.
+
+1092
+01:03:55,811 --> 01:03:57,771
+Te presento a mi familia.
+
+1093
+01:03:58,480 --> 01:04:01,191
+- Hola, todos.
+- Son rocas.
+
+1094
+01:04:01,358 --> 01:04:03,443
+Me alegro mucho de verlos.
+
+1095
+01:04:03,860 --> 01:04:07,030
+Está loco.
+
+1096
+01:04:07,197 --> 01:04:09,116
+Rocko se ve elegante, como siempre.
+
+1097
+01:04:09,658 --> 01:04:11,827
+Clay, no te reconocí.
+
+1098
+01:04:11,994 --> 01:04:12,995
+Has bajado de peso.
+
+1099
+01:04:13,161 --> 01:04:15,872
+Yo lo distraeré mientras tú corres.
+
+1100
+01:04:16,039 --> 01:04:20,669
+¡Hola, familia de Sven!
+Es un placer conocerlos.
+
+1101
+01:04:20,836 --> 01:04:23,380
+Porque te quiero, Anna,
+insisto en que huyas.
+
+1102
+01:04:23,547 --> 01:04:26,842
+Entiendo que son expertos en amor.
+
+1103
+01:04:27,676 --> 01:04:29,386
+¿Por qué no corres?
+
+1104
+01:04:30,846 --> 01:04:33,223
+Bueno, me voy a ir.
+
+1105
+01:04:33,807 --> 01:04:35,559
+No, no, no, Anna, espera.
+
+1106
+01:04:37,644 --> 01:04:38,895
+¡Kristoff!
+
+1107
+01:04:41,815 --> 01:04:43,049
+¡Hola!
+
+1108
+01:04:44,067 --> 01:04:45,360
+¡Llegó Kristoff!
+
+1109
+01:04:47,321 --> 01:04:52,159
+- ¡Kristoff está aquí!
+- ¡Llegó Kristoff! Espera, ¿Kristoff?
+
+1110
+01:04:52,409 --> 01:04:53,702
+Déjame verte.
+
+1111
+01:04:53,827 --> 01:04:55,162
+Quítate la ropa, te la lavaré.
+
+1112
+01:04:55,329 --> 01:04:57,247
+¡No! No, me quedaré vestido.
+
+1113
+01:04:57,414 --> 01:04:59,916
+Miren, es maravilloso verlos,
+pero ¿dónde está Granpabbie?
+
+1114
+01:05:00,250 --> 01:05:02,711
+- Está durmiendo la siesta.
+- Pero mira, me creció un hongo.
+
+1115
+01:05:02,878 --> 01:05:04,588
+Yo me gané mi cristal de fuego.
+
+1116
+01:05:04,755 --> 01:05:05,922
+Yo expulsé un cálculo renal.
+
+1117
+01:05:06,089 --> 01:05:08,425
+- Kristoff, levántame.
+- Estás creciendo.
+
+1118
+01:05:08,592 --> 01:05:09,843
+Bien por ti.
+
+1119
+01:05:10,260 --> 01:05:12,763
+Trolls. ¡Son trolls!
+
+1120
+01:05:15,182 --> 01:05:16,850
+¡Trajo a una chica!
+
+1121
+01:05:17,267 --> 01:05:18,727
+¡Una chica!
+
+1122
+01:05:20,520 --> 01:05:22,773
+Es como un pastelito.
+
+1123
+01:05:22,940 --> 01:05:23,940
+¿Qué sucede?
+
+1124
+01:05:24,024 --> 01:05:25,275
+Yo aprendí a seguirles la corriente.
+
+1125
+01:05:25,442 --> 01:05:27,778
+Déjame verte.
+Ojos brillantes, buena nariz.
+
+1126
+01:05:27,945 --> 01:05:29,404
+¡Dientes fuertes!
+
+1127
+01:05:29,571 --> 01:05:32,199
+Sí, sí.
+Estará bien para nuestro Kristoff.
+
+1128
+01:05:32,366 --> 01:05:33,366
+Espera, espera, espera. No.
+
+1129
+01:05:33,367 --> 01:05:35,744
+Están equivocados.
+No la traje aquí por eso.
+
+1130
+01:05:35,911 --> 01:05:37,579
+Así es. No estamos... No estoy--
+
+1131
+01:05:37,955 --> 01:05:39,957
+¿Cuál es el problema, cariño?
+
+1132
+01:05:40,123 --> 01:05:42,876
+¿Por qué te contienes
+de semejante hombre?
+
+1133
+01:05:43,251 --> 01:05:45,128
+# ¿Es por su manera torpe de andar? #
+
+1134
+01:05:45,295 --> 01:05:46,295
+¿Qué?
+
+1135
+01:05:46,296 --> 01:05:47,923
+# ¿O su manera malhumorada
+De hablar? #
+
+1136
+01:05:48,090 --> 01:05:50,801
+# ¿O sus pies extraños con forma
+De pera cuadrada? #
+
+1137
+01:05:50,968 --> 01:05:51,968
+¡Oye!
+
+1138
+01:05:52,052 --> 01:05:56,640
+# Y si bien sabemos que se baña
+Siempre huele un poco mal #
+
+1139
+01:05:56,807 --> 01:06:00,602
+# Pero nunca conocerás a alguien
+Tan sensible y dulce #
+
+1140
+01:06:00,644 --> 01:06:01,644
+Qué lindo, pero--
+
+1141
+01:06:01,645 --> 01:06:05,607
+# Necesita algunas reparaciones
+Tiene algunos defectos #
+
+1142
+01:06:05,774 --> 01:06:06,942
+# Como su cerebro peculiar, querida #
+
+1143
+01:06:07,109 --> 01:06:08,110
+# Su relación con el reno #
+
+1144
+01:06:08,277 --> 01:06:09,820
+# Que no es muy natural #
+
+1145
+01:06:09,945 --> 01:06:10,945
+¡No se trata de mí!
+
+1146
+01:06:10,946 --> 01:06:14,825
+# Necesita algunas reparaciones
+Pero estamos seguros #
+
+1147
+01:06:15,325 --> 01:06:16,952
+# De que puedes repararlo #
+
+1148
+01:06:17,452 --> 01:06:19,162
+# Con un poco de amor #
+
+1149
+01:06:19,329 --> 01:06:21,248
+¿Podemos dejar
+de hablar de esto, por favor?
+
+1150
+01:06:21,415 --> 01:06:23,458
+Tenemos un problema verdadero.
+
+1151
+01:06:23,750 --> 01:06:25,961
+Yo diría. Dime, querida...
+
+1152
+01:06:26,169 --> 01:06:28,422
+# ¿Es por cómo corre asustado? #
+
+1153
+01:06:28,588 --> 01:06:30,674
+# ¿O porque está
+Socialmente incapacitado? #
+
+1154
+01:06:30,841 --> 01:06:33,802
+# ¿O porque solo le gusta
+Orinar en el bosque? #
+
+1155
+01:06:33,969 --> 01:06:34,969
+No necesitaba saber eso.
+
+1156
+01:06:35,095 --> 01:06:40,100
+# ¿Estás conteniendo tu cariño
+Por su rubio poco masculino? #
+
+1157
+01:06:40,267 --> 01:06:44,313
+# ¿O por cómo esconde
+Que es una buena persona? #
+
+1158
+01:06:44,479 --> 01:06:47,691
+# Necesita algunas reparaciones
+Tiene un par de bichos #
+
+1159
+01:06:47,858 --> 01:06:48,858
+¡No es así!
+
+1160
+01:06:48,942 --> 01:06:53,030
+# Su aislamiento es la confirmación
+De su desesperación por un abrazo #
+
+1161
+01:06:54,031 --> 01:06:55,490
+# Necesita algunas reparaciones #
+
+1162
+01:06:55,657 --> 01:06:58,201
+# Pero sabemos qué hacer #
+
+1163
+01:06:58,368 --> 01:07:02,164
+# La manera de repararlo
+Es repararlo contigo #
+
+1164
+01:07:03,373 --> 01:07:05,208
+¡Basta, basta, basta! ¡Suficiente!
+
+1165
+01:07:05,500 --> 01:07:08,462
+Está comprometida con otro,
+¿entendieron?
+
+1166
+01:07:11,798 --> 01:07:13,967
+# Ella necesita algunas reparaciones #
+
+1167
+01:07:14,134 --> 01:07:15,844
+# No es tan importante #
+
+1168
+01:07:16,011 --> 01:07:18,305
+# Su supuesto compromiso
+No es tan serio #
+
+1169
+01:07:18,472 --> 01:07:20,891
+# Y, además, no veo el anillo #
+
+1170
+01:07:21,058 --> 01:07:25,062
+# Necesita algunas reparaciones
+Su cerebro está un poco confundido #
+
+1171
+01:07:25,228 --> 01:07:29,399
+# Deshagámonos del prometido
+Y todo estará reparado #
+
+1172
+01:07:31,735 --> 01:07:33,695
+# No decimos que puedas cambiarlo #
+
+1173
+01:07:33,862 --> 01:07:36,657
+# Porque la gente no cambia #
+
+1174
+01:07:36,823 --> 01:07:41,203
+# Solo decimos que el amor
+Es una fuerza poderosa y extraña #
+
+1175
+01:07:41,370 --> 01:07:45,916
+# La gente toma malas decisiones
+Si están enfadados o si tienen miedo #
+
+1176
+01:07:46,083 --> 01:07:51,046
+# - Pero dales un poco de amor
+- Dales un poco de amor #
+
+1177
+01:07:51,213 --> 01:07:52,839
+# Y sacarás lo mejor que tienen #
+
+1178
+01:07:53,423 --> 01:07:56,009
+# El amor de verdad saca lo mejor #
+
+1179
+01:07:56,176 --> 01:07:57,844
+# Todos necesitan algunas reparaciones #
+
+1180
+01:07:58,887 --> 01:08:00,263
+# De eso se trata todo #
+
+1181
+01:08:00,430 --> 01:08:01,430
+- ¡Padre!
+- ¡Hermana!
+
+1182
+01:08:01,431 --> 01:08:02,431
+¡Hermano!
+
+1183
+01:08:02,432 --> 01:08:05,602
+# Nos necesitamos para crecer
+Y mejorarnos #
+
+1184
+01:08:06,019 --> 01:08:08,188
+# Todos necesitan algunas reparaciones #
+
+1185
+01:08:08,272 --> 01:08:11,233
+# Pero cuando llega la hora #
+
+1186
+01:08:11,400 --> 01:08:13,860
+# Lo único que puede ayudarte
+A reparar sus reparaciones #
+
+1187
+01:08:14,027 --> 01:08:15,445
+# Es el amor, amor #
+
+1188
+01:08:15,612 --> 01:08:17,906
+# Amor, amor #
+
+1189
+01:08:18,073 --> 01:08:19,283
+# ¡De verdad! #
+
+1190
+01:08:19,449 --> 01:08:21,243
+# Amor, amor, amor #
+
+1191
+01:08:21,410 --> 01:08:22,452
+# Amor
+Amor de verdad #
+
+1192
+01:08:22,619 --> 01:08:23,745
+# De verdad #
+
+1193
+01:08:23,912 --> 01:08:26,290
+¿Ahora, Anna, aceptas a Kristoff...
+
+1194
+01:08:26,957 --> 01:08:28,792
+- ...como tu trolegítimo...?
+- Espera, ¿qué?
+
+1195
+01:08:28,959 --> 01:08:29,960
+Se están casando.
+
+1196
+01:08:30,210 --> 01:08:31,211
+# ¡Amor! #
+
+1197
+01:08:31,420 --> 01:08:32,587
+¿Anna?
+
+1198
+01:08:33,297 --> 01:08:34,631
+Está helada.
+
+1199
+01:08:37,384 --> 01:08:39,136
+Hay una magia extraña aquí.
+
+1200
+01:08:39,303 --> 01:08:41,722
+- Granpabbie.
+- Ven, tráemela.
+
+1201
+01:08:43,765 --> 01:08:47,060
+Anna, tu vida está en peligro.
+
+1202
+01:08:47,227 --> 01:08:50,606
+Hay hielo en tu corazón,
+lo puso tu hermana.
+
+1203
+01:08:50,772 --> 01:08:55,611
+Si no lo sacamos, en hielo sólido
+te convertirás, para siempre.
+
+1204
+01:08:55,777 --> 01:08:57,279
+¿Qué? No.
+
+1205
+01:08:57,446 --> 01:08:58,572
+Pero puedes sacarlo, ¿verdad?
+
+1206
+01:08:58,739 --> 01:08:59,739
+No puedo.
+
+1207
+01:08:59,823 --> 01:09:01,783
+Lo siento, Kristoff.
+
+1208
+01:09:01,950 --> 01:09:04,286
+Si hubiese sido su cabeza, sería fácil.
+
+1209
+01:09:04,453 --> 01:09:09,458
+Pero solo un acto de amor de verdad
+puede derretir un corazón congelado.
+
+1210
+01:09:10,000 --> 01:09:11,501
+¿Un acto de amor de verdad?
+
+1211
+01:09:11,752 --> 01:09:14,254
+¿Quizás un beso de amor?
+
+1212
+01:09:20,302 --> 01:09:22,304
+Anna, tenemos que llevarte
+de regreso con Hans.
+
+1213
+01:09:22,846 --> 01:09:23,846
+Hans.
+
+1214
+01:09:23,930 --> 01:09:25,015
+Sácanos de aquí, Sven.
+
+1215
+01:09:28,143 --> 01:09:29,269
+¡Olaf, vamos!
+
+1216
+01:09:29,436 --> 01:09:30,979
+¡Aquí voy!
+
+1217
+01:09:31,521 --> 01:09:33,440
+¡Vamos a besar a Hans!
+
+1218
+01:09:33,607 --> 01:09:35,692
+¿Quién es este Hans?
+
+1219
+01:09:45,535 --> 01:09:47,537
+Vinimos a buscar a la Princesa Anna.
+
+1220
+01:09:47,704 --> 01:09:51,875
+Estén alerta,
+pero no le hagan daño a la reina.
+
+1221
+01:09:52,793 --> 01:09:54,044
+¿Entendieron?
+
+1222
+01:10:16,900 --> 01:10:18,360
+La reina.
+
+1223
+01:10:23,532 --> 01:10:24,724
+¡Vamos, vamos!
+
+1224
+01:10:24,866 --> 01:10:26,034
+¡Vamos!
+
+1225
+01:10:33,250 --> 01:10:34,376
+¡Allí arriba!
+
+1226
+01:10:34,543 --> 01:10:36,336
+¡Vamos!
+
+1227
+01:10:37,587 --> 01:10:38,755
+¡La tenemos!
+
+1228
+01:10:39,589 --> 01:10:40,882
+No. Por favor.
+
+1229
+01:10:44,761 --> 01:10:46,346
+Del otro lado. Lánzala.
+
+1230
+01:10:47,556 --> 01:10:49,016
+¡Aléjense!
+
+1231
+01:10:49,182 --> 01:10:50,183
+¡Cuidado!
+
+1232
+01:10:50,851 --> 01:10:52,118
+¡Dispara! ¡Dispara!
+
+1233
+01:10:52,853 --> 01:10:53,937
+¡Atrápala!
+
+1234
+01:11:01,612 --> 01:11:02,779
+¡Vamos!
+
+1235
+01:11:50,452 --> 01:11:51,452
+¡Reina Elsa!
+
+1236
+01:11:52,329 --> 01:11:53,914
+No seas el monstruo
+que temen que seas.
+
+1237
+01:12:42,212 --> 01:12:45,716
+No. ¿Qué he hecho?
+
+1238
+01:12:51,722 --> 01:12:53,390
+¿Por qué me trajiste aquí?
+
+1239
+01:12:53,557 --> 01:12:55,392
+No podía permitir que te mataran.
+
+1240
+01:12:55,559 --> 01:12:58,729
+Pero soy un peligro para Arendelle.
+Ve a buscar a Anna.
+
+1241
+01:12:59,229 --> 01:13:01,356
+Anna no ha regresado.
+
+1242
+01:13:02,733 --> 01:13:04,901
+Si tan solo pudieras
+detener el invierno.
+
+1243
+01:13:05,068 --> 01:13:08,238
+Trae el verano de regreso, por favor.
+
+1244
+01:13:08,822 --> 01:13:10,240
+¿No te das cuenta?
+
+1245
+01:13:10,907 --> 01:13:12,409
+No puedo.
+
+1246
+01:13:15,662 --> 01:13:18,332
+Debes decirles que me dejen ir.
+
+1247
+01:13:19,916 --> 01:13:21,752
+Haré lo que pueda.
+
+1248
+01:13:45,609 --> 01:13:46,777
+Resiste.
+
+1249
+01:13:46,944 --> 01:13:48,195
+¡Vamos, amigo, más rápido!
+
+1250
+01:13:54,284 --> 01:13:55,619
+¡Vaya!
+
+1251
+01:13:56,119 --> 01:13:57,454
+¡Nos vemos en el castillo!
+
+1252
+01:13:57,788 --> 01:13:59,289
+Mantente escondido, Olaf.
+
+1253
+01:13:59,456 --> 01:14:00,874
+¡Lo haré!
+
+1254
+01:14:01,583 --> 01:14:02,709
+¡Hola!
+
+1255
+01:14:02,876 --> 01:14:04,086
+¡Está vivo!
+
+1256
+01:14:12,970 --> 01:14:14,888
+¡Es la Princesa Anna!
+
+1257
+01:14:22,813 --> 01:14:25,315
+¿Estarás bien?
+
+1258
+01:14:26,900 --> 01:14:28,318
+No te preocupes por mí.
+
+1259
+01:14:28,735 --> 01:14:29,986
+¡Anna!
+
+1260
+01:14:30,487 --> 01:14:32,656
+- Estábamos muy preocupados.
+- Milady.
+
+1261
+01:14:32,823 --> 01:14:35,284
+Abríguenla. Y busquen
+al Príncipe Hans, de inmediato.
+
+1262
+01:14:35,450 --> 01:14:36,910
+Lo haremos. Gracias.
+
+1263
+01:14:37,077 --> 01:14:38,120
+Asegúrense de que esté a salvo.
+
+1264
+01:14:38,287 --> 01:14:41,123
+Pobre niña, estás congelada.
+
+1265
+01:14:57,347 --> 01:14:59,308
+Regresaré a buscar a la Princesa Anna.
+
+1266
+01:14:59,474 --> 01:15:01,018
+No puedes arriesgarte
+saliendo de nuevo.
+
+1267
+01:15:01,518 --> 01:15:02,519
+Si algo le sucede--
+
+1268
+01:15:02,686 --> 01:15:04,521
+Si algo le sucede a la princesa...
+
+1269
+01:15:04,688 --> 01:15:07,149
+...eres todo lo que nos queda.
+
+1270
+01:15:09,359 --> 01:15:10,360
+Está aquí.
+
+1271
+01:15:10,527 --> 01:15:11,612
+Príncipe Hans.
+
+1272
+01:15:11,778 --> 01:15:12,779
+Anna.
+
+1273
+01:15:13,155 --> 01:15:14,156
+Estás muy fría.
+
+1274
+01:15:14,323 --> 01:15:15,365
+- Hans, tienes que besarme.
+- ¿Qué?
+
+1275
+01:15:15,532 --> 01:15:17,034
+- ¡Ahora! ¡Ahora!
+- Espera.
+
+1276
+01:15:17,200 --> 01:15:19,286
+Les daremos privacidad.
+
+1277
+01:15:19,786 --> 01:15:20,871
+¿Qué sucedió?
+
+1278
+01:15:21,038 --> 01:15:22,998
+Elsa me lanzó sus poderes.
+
+1279
+01:15:23,165 --> 01:15:24,499
+Dijiste que nunca te haría daño.
+
+1280
+01:15:24,666 --> 01:15:25,666
+Me equivoqué.
+
+1281
+01:15:26,293 --> 01:15:27,377
+Anna.
+
+1282
+01:15:29,713 --> 01:15:31,506
+Congeló mi corazón...
+
+1283
+01:15:31,673 --> 01:15:34,551
+...y solo un acto de amor de verdad
+me salvará.
+
+1284
+01:15:35,802 --> 01:15:38,221
+Un beso de amor.
+
+1285
+01:15:47,689 --> 01:15:49,399
+Anna.
+
+1286
+01:15:50,233 --> 01:15:53,028
+Si tan solo hubiera alguien
+que te amara.
+
+1287
+01:15:53,570 --> 01:15:54,738
+¿Qué?
+
+1288
+01:15:58,408 --> 01:16:00,369
+Dijiste que me amabas.
+
+1289
+01:16:01,411 --> 01:16:02,537
+Como treceavo en la línea del trono...
+
+1290
+01:16:02,913 --> 01:16:04,039
+...en mi propio reino...
+
+1291
+01:16:04,206 --> 01:16:05,248
+...no tenía oportunidad.
+
+1292
+01:16:05,415 --> 01:16:08,210
+Sabía que debía casarme
+con una heredera al trono.
+
+1293
+01:16:09,169 --> 01:16:10,504
+¿De qué estás hablando?
+
+1294
+01:16:11,254 --> 01:16:13,924
+Como heredera,
+Elsa era preferible, por supuesto.
+
+1295
+01:16:14,091 --> 01:16:15,717
+Pero nadie logró acercarse a ella.
+
+1296
+01:16:15,884 --> 01:16:17,219
+- Pero tú...
+- ¡Hans!
+
+1297
+01:16:17,761 --> 01:16:19,221
+Tú estabas tan desesperada
+porque te amaran...
+
+1298
+01:16:19,388 --> 01:16:21,723
+...que estabas dispuesta
+a casarte conmigo así como así.
+
+1299
+01:16:22,766 --> 01:16:24,434
+Pensé que después de casarnos...
+
+1300
+01:16:24,601 --> 01:16:26,728
+...tendría que simular
+un pequeño accidente para Elsa.
+
+1301
+01:16:26,895 --> 01:16:28,897
+¡Hans! No. Detente.
+
+1302
+01:16:29,356 --> 01:16:31,024
+Pero entonces se condenó a sí misma...
+
+1303
+01:16:31,191 --> 01:16:32,901
+...y tú fuiste tan tonta
+como para seguirla.
+
+1304
+01:16:33,068 --> 01:16:34,194
+Por favor.
+
+1305
+01:16:34,361 --> 01:16:36,947
+Ahora solo me queda matar a Elsa...
+
+1306
+01:16:37,364 --> 01:16:39,074
+...y recuperar el verano.
+
+1307
+01:16:39,408 --> 01:16:41,285
+No podrás enfrentarte a Elsa.
+
+1308
+01:16:41,451 --> 01:16:44,371
+No, tú no podrás enfrentarte a Elsa.
+
+1309
+01:16:44,538 --> 01:16:45,538
+Yo, por otro lado...
+
+1310
+01:16:46,248 --> 01:16:50,794
+...soy el héroe que salvará a Arendelle
+de la destrucción.
+
+1311
+01:16:51,378 --> 01:16:52,963
+No te saldrás con la tuya.
+
+1312
+01:16:55,299 --> 01:16:57,175
+Ya lo hice.
+
+1313
+01:17:02,306 --> 01:17:04,850
+Por favor, alguien ayúdeme.
+
+1314
+01:17:08,020 --> 01:17:10,814
+Por favor. Por favor.
+
+1315
+01:17:13,025 --> 01:17:14,943
+Cada vez hace más frío.
+
+1316
+01:17:15,110 --> 01:17:17,779
+Si no hacemos algo pronto,
+todos nos congelaremos.
+
+1317
+01:17:18,655 --> 01:17:19,655
+Príncipe Hans.
+
+1318
+01:17:20,532 --> 01:17:22,659
+La Princesa Anna está...
+
+1319
+01:17:23,368 --> 01:17:24,368
+...muerta.
+
+1320
+01:17:24,465 --> 01:17:26,997
+- ¿Qué?
+- ¿Qué le sucedió?
+
+1321
+01:17:31,710 --> 01:17:33,629
+Fue asesinada.
+
+1322
+01:17:33,795 --> 01:17:34,880
+Por la Reina Elsa.
+
+1323
+01:17:35,047 --> 01:17:36,214
+¡No!
+
+1324
+01:17:36,381 --> 01:17:37,841
+Su propia hermana.
+
+1325
+01:17:38,508 --> 01:17:40,969
+Al menos pudimos decir
+nuestros votos matrimoniales...
+
+1326
+01:17:42,971 --> 01:17:45,849
+...antes de que muriera en mis brazos.
+
+1327
+01:17:46,975 --> 01:17:48,810
+No hay lugar a dudas ahora.
+
+1328
+01:17:49,019 --> 01:17:52,522
+La Reina Elsa es un monstruo
+y todos estamos en grave peligro.
+
+1329
+01:17:52,689 --> 01:17:53,690
+Príncipe Hans...
+
+1330
+01:17:54,399 --> 01:17:56,860
+Arendelle depende de usted.
+
+1331
+01:17:58,028 --> 01:17:59,529
+Con gran tristeza...
+
+1332
+01:17:59,696 --> 01:18:04,159
+...acuso a la Reina Elsa
+de Arendelle de traición.
+
+1333
+01:18:04,660 --> 01:18:06,745
+Y la sentencio a morir.
+
+1334
+01:18:19,049 --> 01:18:20,384
+¡Rápido!
+
+1335
+01:18:20,717 --> 01:18:22,886
+- Es peligrosa. Muévanse rápido.
+- Con cuidado.
+
+1336
+01:18:24,554 --> 01:18:26,223
+- ¡No se abre!
+- ¡Está congelada!
+
+1337
+01:18:55,544 --> 01:18:56,712
+¿Qué sucede, amigo?
+
+1338
+01:18:56,878 --> 01:18:57,879
+Ten cuidado.
+
+1339
+01:18:58,547 --> 01:18:59,715
+¿Qué te sucede?
+
+1340
+01:19:02,968 --> 01:19:05,429
+No te entiendo cuando hablas así.
+
+1341
+01:19:06,596 --> 01:19:09,099
+¡Basta! ¡Suéltame!
+
+1342
+01:19:10,392 --> 01:19:13,103
+¡No, Sven! No regresaremos.
+
+1343
+01:19:13,270 --> 01:19:14,980
+Está con su amor de verdad.
+
+1344
+01:19:21,945 --> 01:19:22,945
+¿Qué...?
+
+1345
+01:19:25,782 --> 01:19:26,783
+¡Anna!
+
+1346
+01:19:33,790 --> 01:19:35,626
+Vamos, amigo.
+
+1347
+01:19:52,351 --> 01:19:53,477
+Ayúdenme.
+
+1348
+01:19:58,899 --> 01:20:00,150
+¡Anna!
+
+1349
+01:20:01,026 --> 01:20:02,361
+No.
+
+1350
+01:20:14,164 --> 01:20:15,666
+¿Olaf?
+
+1351
+01:20:16,333 --> 01:20:18,168
+Olaf. Aléjate de ahí.
+
+1352
+01:20:20,212 --> 01:20:22,381
+Así que esto es el calor.
+
+1353
+01:20:22,547 --> 01:20:24,174
+Me encanta.
+
+1354
+01:20:24,549 --> 01:20:25,842
+Pero no lo toques.
+
+1355
+01:20:34,059 --> 01:20:37,354
+¿Dónde está Hans?
+¿Qué sucedió con su beso?
+
+1356
+01:20:37,521 --> 01:20:41,566
+Estaba equivocada.
+No era amor de verdad.
+
+1357
+01:20:41,733 --> 01:20:43,360
+Pero corrimos hasta aquí.
+
+1358
+01:20:43,527 --> 01:20:46,863
+Por favor, Olaf, no puedes quedarte.
+Te derretirás.
+
+1359
+01:20:47,030 --> 01:20:48,031
+No me iré de aquí...
+
+1360
+01:20:48,198 --> 01:20:50,617
+...hasta que encontremos otro acto
+de amor de verdad para salvarte.
+
+1361
+01:20:51,076 --> 01:20:53,203
+¿Se te ocurre algo?
+
+1362
+01:20:53,370 --> 01:20:55,289
+Ni siquiera sé lo que es el amor.
+
+1363
+01:20:55,455 --> 01:20:57,374
+Está bien, yo sí sé.
+
+1364
+01:20:57,541 --> 01:20:59,209
+El amor es...
+
+1365
+01:20:59,751 --> 01:21:01,878
+...poner las necesidades
+del otro antes que las tuyas.
+
+1366
+01:21:02,045 --> 01:21:06,967
+Como cuando Kristoff te trajo aquí
+con Hans y te dejó para siempre.
+
+1367
+01:21:09,720 --> 01:21:12,723
+¿Kristoff me ama?
+
+1368
+01:21:13,557 --> 01:21:17,644
+Vaya, de veras
+no sabes nada del amor.
+
+1369
+01:21:17,811 --> 01:21:19,479
+Olaf, te estás derritiendo.
+
+1370
+01:21:19,730 --> 01:21:22,608
+Vale la pena derretirse
+por algunas personas.
+
+1371
+01:21:27,070 --> 01:21:29,281
+Quizás no ahora mismo.
+
+1372
+01:21:31,575 --> 01:21:33,285
+No te preocupes, yo me encargo.
+
+1373
+01:21:35,412 --> 01:21:37,581
+¡Superaremos esto! Espera.
+
+1374
+01:21:37,748 --> 01:21:39,458
+Espera, veo algo.
+
+1375
+01:21:40,917 --> 01:21:42,669
+¡Son Kristoff y Sven! Están regresando.
+
+1376
+01:21:42,836 --> 01:21:44,129
+Están regresando aquí.
+
+1377
+01:21:44,588 --> 01:21:45,922
+¿De veras?
+
+1378
+01:21:46,089 --> 01:21:48,842
+¡Vaya! Se mueve muy rápido.
+
+1379
+01:21:49,009 --> 01:21:50,135
+Supongo que estaba equivocado.
+
+1380
+01:21:50,302 --> 01:21:52,804
+Supongo que Kristoff no te ama
+lo suficiente como para dejarte.
+
+1381
+01:21:53,472 --> 01:21:55,515
+Ayúdame a ponerme de pie,
+Olaf, por favor.
+
+1382
+01:21:55,682 --> 01:21:58,602
+¡No, no, no! Debes quedarte
+cerca del fuego, calientita.
+
+1383
+01:21:58,769 --> 01:22:00,270
+Necesito ir con Kristoff.
+
+1384
+01:22:00,437 --> 01:22:01,688
+¿Por qué?
+
+1385
+01:22:03,023 --> 01:22:04,524
+¡Ya sé por qué!
+
+1386
+01:22:04,691 --> 01:22:06,652
+¡Ahí está tu acto de amor de verdad!
+
+1387
+01:22:06,818 --> 01:22:10,948
+Cabalgando por los fiordos,
+como un apestoso rey de los renos.
+
+1388
+01:22:11,114 --> 01:22:12,324
+¡Vamos!
+
+1389
+01:22:14,701 --> 01:22:16,119
+¡Cuidado!
+
+1390
+01:22:25,045 --> 01:22:26,505
+Regresemos por aquí.
+
+1391
+01:22:27,881 --> 01:22:28,966
+Estamos atrapados.
+
+1392
+01:22:51,154 --> 01:22:52,154
+¡Deslízate, Anna!
+
+1393
+01:23:01,832 --> 01:23:03,166
+¡Lo logramos!
+
+1394
+01:23:04,251 --> 01:23:06,044
+¡Ve, ve, ve!
+
+1395
+01:23:18,515 --> 01:23:20,183
+Vamos, amigo, más rápido.
+
+1396
+01:23:22,352 --> 01:23:24,062
+¡Kristoff!
+
+1397
+01:23:29,776 --> 01:23:31,570
+¡Sigue adelante!
+
+1398
+01:23:33,405 --> 01:23:34,865
+¡Kristoff!
+
+1399
+01:23:46,877 --> 01:23:47,877
+¡Vamos! ¡Vamos!
+
+1400
+01:24:01,892 --> 01:24:03,001
+No.
+
+1401
+01:24:30,587 --> 01:24:31,922
+¡Sven!
+
+1402
+01:24:42,015 --> 01:24:43,850
+Buen chico.
+
+1403
+01:24:54,820 --> 01:24:56,446
+Kristoff.
+
+1404
+01:24:59,950 --> 01:25:01,326
+¡Anna!
+
+1405
+01:25:04,329 --> 01:25:08,709
+¡Elsa! ¡No puedes escapar de esto!
+
+1406
+01:25:10,168 --> 01:25:12,212
+Cuida de mi hermana.
+
+1407
+01:25:12,379 --> 01:25:13,964
+¿Tu hermana?
+
+1408
+01:25:14,131 --> 01:25:16,550
+Regresó de la montaña
+débil y congelada.
+
+1409
+01:25:16,717 --> 01:25:18,719
+Dijo que congelaste su corazón.
+
+1410
+01:25:18,885 --> 01:25:19,970
+No.
+
+1411
+01:25:20,137 --> 01:25:22,514
+Intenté salvarla,
+pero era demasiado tarde.
+
+1412
+01:25:23,640 --> 01:25:26,476
+Su piel estaba congelada.
+Su cabello se tornó blanco.
+
+1413
+01:25:27,477 --> 01:25:29,396
+Tu hermana está muerta.
+
+1414
+01:25:29,980 --> 01:25:31,481
+Por tu culpa.
+
+1415
+01:25:31,648 --> 01:25:32,983
+No.
+
+1416
+01:25:55,005 --> 01:25:56,173
+Kristoff.
+
+1417
+01:25:58,425 --> 01:25:59,592
+¡Anna!
+
+1418
+01:26:11,563 --> 01:26:12,856
+¿Elsa?
+
+1419
+01:26:20,781 --> 01:26:22,015
+¡No!
+
+1420
+01:26:34,753 --> 01:26:35,987
+¡Anna!
+
+1421
+01:26:37,547 --> 01:26:41,385
+¡Anna! ¡No, no!
+
+1422
+01:26:41,551 --> 01:26:43,387
+Por favor, no.
+
+1423
+01:26:51,603 --> 01:26:52,938
+¿Anna?
+
+1424
+01:27:33,770 --> 01:27:34,855
+¿Anna?
+
+1425
+01:27:37,816 --> 01:27:39,443
+Elsa.
+
+1426
+01:27:39,610 --> 01:27:42,946
+¿Te sacrificaste por mí?
+
+1427
+01:27:43,614 --> 01:27:45,115
+Te amo.
+
+1428
+01:27:46,033 --> 01:27:50,495
+"Un acto de amor de verdad
+descongelará un corazón congelado".
+
+1429
+01:27:51,455 --> 01:27:53,957
+"El amor descongelará".
+
+1430
+01:27:54,541 --> 01:27:56,960
+El amor. Por supuesto.
+
+1431
+01:27:57,127 --> 01:27:58,629
+¿Elsa?
+
+1432
+01:27:58,795 --> 01:28:00,297
+¡Amor!
+
+1433
+01:28:46,760 --> 01:28:48,345
+Sabía que podías hacerlo.
+
+1434
+01:28:48,595 --> 01:28:52,349
+Definitivamente,
+este es el mejor día de mi vida.
+
+1435
+01:28:52,516 --> 01:28:54,351
+Y, probablemente, el último.
+
+1436
+01:28:54,518 --> 01:28:56,728
+¡Olaf! Espera, amiguito.
+
+1437
+01:29:00,524 --> 01:29:03,360
+¡Mi propia nevisca personal!
+
+1438
+01:29:13,537 --> 01:29:14,537
+¿Anna?
+
+1439
+01:29:14,621 --> 01:29:16,540
+Pero ella congeló tu corazón.
+
+1440
+01:29:16,707 --> 01:29:19,584
+El único corazón congelado
+por aquí es el tuyo.
+
+1441
+01:29:24,464 --> 01:29:25,882
+¡Maravilloso!
+
+1442
+01:29:39,229 --> 01:29:40,939
+Estableciendo el curso, señor.
+
+1443
+01:29:44,067 --> 01:29:46,445
+Regresaré a este sinvergüenza
+a su país.
+
+1444
+01:29:46,612 --> 01:29:50,407
+Veremos qué piensan sus 12 hermanos
+mayores de su comportamiento.
+
+1445
+01:29:50,574 --> 01:29:51,992
+Arendelle le agradece, Milord.
+
+1446
+01:29:52,159 --> 01:29:53,910
+Esto es inaceptable.
+
+1447
+01:29:54,077 --> 01:29:57,080
+Soy víctima del miedo.
+Estaba traumatizado.
+
+1448
+01:29:57,914 --> 01:29:59,249
+Me duele el cuello.
+
+1449
+01:29:59,416 --> 01:30:02,586
+¿Podría ver a un médico?
+
+1450
+01:30:02,753 --> 01:30:06,590
+- ¡Y exijo ver a la reina!
+- Tengo un mensaje de la reina.
+
+1451
+01:30:07,758 --> 01:30:09,593
+"De ahora en más
+y para siempre, Arendelle...
+
+1452
+01:30:09,760 --> 01:30:13,680
+...no hará ningún negocio
+de ningún tipo con Weaseltonio".
+
+1453
+01:30:13,847 --> 01:30:14,847
+"Weselton".
+
+1454
+01:30:14,931 --> 01:30:16,350
+¡Es "Weselton"!
+
+1455
+01:30:16,600 --> 01:30:18,427
+¡Vamos, vamos, vamos!
+
+1456
+01:30:18,477 --> 01:30:20,437
+Bien, aquí voy.
+
+1457
+01:30:20,604 --> 01:30:22,272
+- ¡Poste!
+- Lo siento.
+
+1458
+01:30:22,773 --> 01:30:23,982
+Muy bien, muy bien.
+
+1459
+01:30:24,149 --> 01:30:25,442
+Aquí estamos.
+
+1460
+01:30:27,861 --> 01:30:29,988
+Te debo un trineo.
+
+1461
+01:30:32,783 --> 01:30:34,785
+- ¿Es en serio?
+- ¡Sí!
+
+1462
+01:30:35,118 --> 01:30:36,536
+Y es el último modelo.
+
+1463
+01:30:36,703 --> 01:30:38,038
+No, no puedo aceptar esto.
+
+1464
+01:30:38,205 --> 01:30:41,375
+Tienes que aceptarlo. No se puede
+devolver. Son órdenes de la reina.
+
+1465
+01:30:41,959 --> 01:30:45,295
+Te nombró Maestro y Proveedor Oficial
+de Hielo de Arendelle.
+
+1466
+01:30:45,462 --> 01:30:47,214
+- ¿Qué? Eso no es un título.
+- Claro que lo es.
+
+1467
+01:30:47,381 --> 01:30:50,550
+Y viene con posavasos. ¿Te gusta?
+
+1468
+01:30:50,717 --> 01:30:52,302
+¿Si me gusta? ¡Me encanta!
+
+1469
+01:30:54,054 --> 01:30:55,889
+¡Podría besarte!
+
+1470
+01:30:56,723 --> 01:30:58,684
+Podría. Es decir, me gustaría.
+
+1471
+01:30:58,850 --> 01:31:00,560
+¿Puedo? Podemos, yo.
+Es decir, ¿podemos?
+
+1472
+01:31:00,727 --> 01:31:01,979
+Espera, ¿qué?
+
+1473
+01:31:02,896 --> 01:31:04,231
+Podemos.
+
+1474
+01:31:07,985 --> 01:31:09,861
+¡Verano!
+
+1475
+01:31:13,573 --> 01:31:15,367
+Hola.
+
+1476
+01:31:32,009 --> 01:31:33,009
+¿Están listos?
+
+1477
+01:31:53,363 --> 01:31:54,615
+Gírame.
+
+1478
+01:31:57,743 --> 01:31:59,369
+Me gustan las puertas abiertas.
+
+1479
+01:31:59,536 --> 01:32:01,538
+Nunca más las cerraremos.
+
+1480
+01:32:04,416 --> 01:32:06,710
+Elsa, son hermosos,
+pero sabes que no patino.
+
+1481
+01:32:06,877 --> 01:32:08,754
+¡Vamos! ¡Puedes hacerlo!
+
+1482
+01:32:09,212 --> 01:32:10,922
+Cuidado. Aquí viene el reno.
+
+1483
+01:32:11,089 --> 01:32:12,591
+Yo puedo, yo puedo.
+No puedo, no puedo.
+
+1484
+01:32:12,758 --> 01:32:15,052
+- ¡Hola, chicas!
+- Muy bien, Olaf, empújala.
+
